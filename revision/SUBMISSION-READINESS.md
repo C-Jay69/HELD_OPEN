@@ -1,6 +1,6 @@
 # THE LAST SMUGGLERS — what stands between this and an agent
 
-**Read against:** `D3_REVISED_manuscript.md` / `.docx` (the revision, 47 edits, 110,164 → 110,025 words).
+**Read against:** `D3_REVISED_manuscript.md` / `.docx` (the revision: 47 edits; **306 words of prose removed**; the novel counts **109,573 words** from Chapter One to the last line, and the DOCX reports 110,040 because front matter and the scene dividers are counted too).
 **Companions:** `CHANGE-LOG.md` (every edit, and how to reverse it) · `../editorial/EDITORIAL-ASSESSMENT.md`, `continuity-audit.md`, `revision-plan.md` (the first assessment).
 **Compiled:** 14 October 2026, after a full second read of the revised text.
 
@@ -41,7 +41,7 @@ An agent's first thirty seconds are spent on the first page and the covering let
 | Contents | present (I generated it) | Keep. 39 lines. It also earns its place thematically, given what the book is about. |
 | **Epigraph** | **missing** — and it is the best free upgrade available | I have typeset a proposed one into the front matter, marked `EPIGRAPH — for decision` in `D3_REVISED_marked.docx`, and left it in place in the clean file so you can see it in position:<br><br>*Nothing in this notice requires a response.*<br>*There is nothing you need to do.*<br><br>It is the Office's own closing formula, used ~20 times in the book and never once quoted as a quotation. On the epigraph page it becomes a threat, a benediction and a joke at once, and it teaches the reader how to read every notice that follows. **If you dislike it, delete the page — but the book currently has no front matter at all, and an agent will read that as "not finished".** |
 | End marker | **added** (`END`) | Keep, or delete; convention varies. |
-| Word count for the query | **110,025** on the revised extraction | Say **110,000**. Round down, never up. Genre phrase: *speculative literary thriller*. |
+| Word count for the query | **109,573** of novel text (110,040 as Word counts the file) | Say **110,000**. Not 109,000: a 1,000-word understatement looks like an error, and round numbers are what agents expect. Genre phrase: *speculative literary thriller*. |
 | Title-page name | `Simon J Cleary` vs `SIMON J CLEARY` | Pick one and use it in the filename, the title page and the query. |
 | Filename | `D3_REVISED_manuscript.docx` | Rename for submission: `THE LAST SMUGGLERS - Simon J Cleary - 110000 words.docx`. Agents see the filename before the file. |
 | Comps (from the assessment) | decided | Keep *The Warehouse*; add *The Constant Gardener*; *Station Eleven* out; *The Circle* as contrast only. |

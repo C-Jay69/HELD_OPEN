@@ -81,6 +81,15 @@ for i, t in enumerate(paras):
         div_idx.append(i)
 
 w_after = words(" ".join(paras))
+
+def body_count(paragraphs):
+    start = next(i for i, t in enumerate(paragraphs)
+                 if i >= 42 and t.strip().startswith("Chapter One"))
+    n = 0
+    for t in paragraphs[start:]:
+        s = t.strip()
+        n += 1 if s in ("---", "\u2022 \u2022 \u2022") else words(t)
+    return n
 print(f"edits applied: {len(applied)}  dividers normalised: {div_count}")
 print(f"words: {w_before} -> {w_after}  ({w_after - w_before:+d})")
 
@@ -201,10 +210,15 @@ write_docx(f"{OUT}/D3_REVISED_manuscript.docx", False)
 write_docx(f"{OUT}/D3_REVISED_marked.docx", True)
 
 # 4. change log data for the writer script
+_d = docx.Document(f"{OUT}/D3_REVISED_manuscript.docx")
+docx_words = sum(len(p.text.split()) for p in _d.paragraphs)
 edited_paras = sorted({a[2] for a in applied})
 divider_paras = sorted(set(div_idx))
 payload = {
     "words_before": w_before, "words_after": w_after,
+    "body_before": body_count(orig), "body_after": body_count(paras),
+    "docx_words": docx_words,
+    "prose_delta": sum(words(a[4]) - words(a[3]) for a in applied),
     "edits_paras": len(edited_paras), "divider_paras": len(divider_paras),
     "untouched": len(paras) - len(set(edited_paras) | set(divider_paras)),
     "applied": [{"id": a[0], "cat": a[1], "idx": a[2], "loc": loc(a[2]),

@@ -44,7 +44,7 @@ doc.append("**Source:** `editorial/source/D3_THE_LAST_SMUGGLERS.pdf` (D3, 110,16
            "**Compiled:** 14 October 2026.\n")
 doc.append("---\n")
 doc.append("## 1. What this pass is, and what it is not\n")
-doc.append(f"""This is the **continuity pass and the line pass**, applied in one sweep, exactly as the assessment's §8 sequence recommended — with one difference: the structural cut (`revision-plan.md`, Tier 1 ≈4,350–5,000 words) has **not** been done, because you asked for the fixes and the lines. So the file you have is D3 made *consistent* and D3 made *quieter*, at the same length: **{ap['words_before']:,} → {ap['words_after']:,} words ({ap['words_after']-ap['words_before']:+,})**, in **{len(EDITS)} edits** across the book's 34 chapters, four CUSTOS interstitials and the coda — {ap['pass1']} in the first pass (the fixes and the six line rules) and {ap['pass2']} in the second (a full read-through of the result, which found six more).
+doc.append(f"""This is the **continuity pass and the line pass**, applied in one sweep, exactly as the assessment's §8 sequence recommended — with one difference: the structural cut (`revision-plan.md`, Tier 1 ≈4,350–5,000 words) has **not** been done, because you asked for the fixes and the lines. So the file you have is D3 made *consistent* and D3 made *quieter*, at the same length: **{abs(ap['prose_delta']):,} words of prose removed**, in **{len(EDITS)} edits** across the book's 34 chapters, four CUSTOS interstitials and the coda — {ap['pass1']} in the first pass (the fixes and the six line rules) and {ap['pass2']} in the second (a full read-through of the result, which found six more).
 
 That is deliberately a small number of words. Every one of the six line rules is applied where the text supports it, and where it doesn't I have said so rather than manufactured a cut — §4 below is the pushback section, and it is longer than usual because three of the six rules turned out to be either misdiagnosed or already satisfied.
 
@@ -145,7 +145,7 @@ doc.append(f"""The PDF's text layer gives one line per block, so paragraphing wa
 Every edit is then applied by **exact-string match against one numbered paragraph**, with the match required to be unique; if a string had moved or read differently the build fails rather than guessing. The result:
 
 - **{ap["edits_paras"]} paragraphs carry edits, {ap["divider_paras"]} carry a normalised divider, {ap["untouched"]} are untouched.** No paragraph was edited that is not listed in §2–§3, and no edit was made in a paragraph that is not listed.
-- Word count: {ap["words_before"]:,} → {ap["words_after"]:,} on the extraction used (two equally valid paragraph reconstructions of this PDF differ by ±2 words and thirty paragraph breaks; the edited text is identical in both after whitespace normalisation).
+- **Word count, honestly stated.** The {len(EDITS)} edits remove **{abs(ap['prose_delta']):,} words** of prose. Counting the novel from Chapter One to the last line: **{ap['body_before']:,} → {ap['body_after']:,}**. As a word processor reports the DOCX it is **{ap['docx_words']:,}**, because the front matter (title page, epigraph, contents) and the 82 scene dividers are counted as well — each divider is three spaced bullet glyphs, which Word counts as three words. The number to quote in a query is **110,000**.
 - Insertions are highlighted and deletions struck through in `D3_REVISED_marked.docx`; the paragraph's surrounding text is untouched in both DOCX files.
 - `D3_REVISED_manuscript.md` is the same text, clean, for reading and for searching.
 
