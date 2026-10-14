@@ -128,6 +128,16 @@ def write_docx(path, marked):
     p = d.add_paragraph()
     r = p.add_run("Simon J Cleary")
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    # front matter: epigraph page (the book had none; see SUBMISSION-READINESS.md)
+    if marked:
+        p = d.add_paragraph("EPIGRAPH — for decision; see SUBMISSION-READINESS.md §2")
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    ep = d.add_paragraph()
+    ep.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    ep.add_run("Nothing in this notice requires a response.").italic = True
+    ep.add_run().add_break()
+    ep.add_run("There is nothing you need to do.").italic = True
+    d.add_page_break()
     d.add_heading("Contents", level=1)
     for t in toc:
         d.add_paragraph(t)
@@ -182,6 +192,9 @@ def write_docx(path, marked):
                 p.add_run(post)
         else:
             p.add_run(t)
+    p = d.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p.add_run("END")
     d.save(path)
 
 write_docx(f"{OUT}/D3_REVISED_manuscript.docx", False)

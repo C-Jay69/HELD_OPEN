@@ -194,6 +194,32 @@ EDITS = [
  "Mara watched him do it \u2014 the name, the registration number, the date \u2014 and understood that she was looking at a document about a person, and that the person was Kavanagh, and that a page with his name on it",
  "Mara watched him do it \u2014 the name, the registration number, the date. A page with his name on it",
  "Rule 2. The paragraph ends on 'the word authorize', which is the point; the scaffolding in front of it was explaining the point. (Re-read fix: the sentence is broken after the em-dash aside rather than left as a comma splice.)"),
+
+# ---------------- G. PASS TWO: the read-through, and submission form ----------------
+("G1","Continuity \u2014 pass-two fixes",2480,
+ "Days 105\u2013107","Days 108\u2013110",
+ "Pass two. Ch. 25 still began before Ch. 24 ended (Ch. 24 now runs to Day 108), the last backwards step in the sequence. The chapter has no internal day anchors of its own, so the stamp moves rather than the scene."),
+
+("G2","Continuity \u2014 pass-two fixes",2549,
+ "Days 108\u2013115","Days 110\u2013115",
+ "Pass two. Touches Ch. 25's new close, so the March chapters run strictly forward: 105 | 105\u2013108 | 108\u2013110 | 110\u2013115. The meeting itself is still after Sal's letter (Day 108); the wider span is the planning run-up to 2 April."),
+
+("G6","Continuity \u2014 pass-two fixes",3333,
+ "what his handwriting did in the last week of April","what his handwriting did in April",
+ "Pass two. The page reached Elena two days before the twenty-first of April interview (Ch. 31), so 'the last week of April' was one week out. In a book whose whole argument is that dates are the only thing that holds, the coda should not be the one place that rounds."),
+
+("G3","Line rule 3 \u2014 meta register",3323,
+ "are not in this book.","are not written down anywhere.",
+ "Pass two, rule 3 \u2014 and a genuine trip-up: 'this book' in that sentence meant the novel, while 'the book' two paragraphs later means Mara's exercise book. One word, two objects, four lines apart."),
+
+("G4","Line rule 3 \u2014 meta register",3329,
+ "and the letter is in the book.","and the letter is in her book.",
+ "Pass two. Same fix from the other side: the letter is in Mara's book, not in this one."),
+
+("G5","Line rule 3 \u2014 meta register",3348,
+ "because the answer does not change a single thing about the people in the book.",
+ "because the answer does not change a single thing about any of them.",
+ "Pass two, rule 3. The last remaining fourth-wall touch apart from the postcard's, and it was there to be cut."),
 ]
 
 # Presentation normalisation (all scene dividers to one style) — logged separately, not paragraph-specific.

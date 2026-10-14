@@ -8,6 +8,9 @@ OUT = os.path.abspath(os.path.join(HERE, ".."))
 from edits import EDITS, DIVIDER_FROM, DIVIDER_TO
 
 ap = json.load(open(os.path.join(HERE, "applied.json")))
+PASS1 = {"A", "B", "C", "D", "E", "F"}
+ap["pass1"] = len([a for a in ap["applied"] if a["id"][0] in PASS1])
+ap["pass2"] = len(ap["applied"]) - ap["pass1"]
 A = {a["id"]: a for a in ap["applied"]}
 
 CAT_ORDER = [
@@ -41,7 +44,7 @@ doc.append("**Source:** `editorial/source/D3_THE_LAST_SMUGGLERS.pdf` (D3, 110,16
            "**Compiled:** 14 October 2026.\n")
 doc.append("---\n")
 doc.append("## 1. What this pass is, and what it is not\n")
-doc.append(f"""This is the **continuity pass and the line pass**, applied in one sweep, exactly as the assessment's §8 sequence recommended — with one difference: the structural cut (`revision-plan.md`, Tier 1 ≈4,350–5,000 words) has **not** been done, because you asked for the fixes and the lines. So the file you have is D3 made *consistent* and D3 made *quieter*, at the same length: **110,164 → 110,033 words (−131)**, in **{len(EDITS)} edits** across the book's 34 chapters, four CUSTOS interstitials and the coda.
+doc.append(f"""This is the **continuity pass and the line pass**, applied in one sweep, exactly as the assessment's §8 sequence recommended — with one difference: the structural cut (`revision-plan.md`, Tier 1 ≈4,350–5,000 words) has **not** been done, because you asked for the fixes and the lines. So the file you have is D3 made *consistent* and D3 made *quieter*, at the same length: **{ap['words_before']:,} → {ap['words_after']:,} words ({ap['words_after']-ap['words_before']:+,})**, in **{len(EDITS)} edits** across the book's 34 chapters, four CUSTOS interstitials and the coda — {ap['pass1']} in the first pass (the fixes and the six line rules) and {ap['pass2']} in the second (a full read-through of the result, which found six more).
 
 That is deliberately a small number of words. Every one of the six line rules is applied where the text supports it, and where it doesn't I have said so rather than manufactured a cut — §4 below is the pushback section, and it is longer than usual because three of the six rules turned out to be either misdiagnosed or already satisfied.
 
@@ -99,6 +102,17 @@ doc.append("""
 **Interlude day stamps (audit item D1, second half): no edit.** I checked all four, and they are already in one format — Dakar `Days 18–24`, Notices `Days 78–92`, Kestrel Field `Day 89`, Interlude IV `Day 143`. Adding calendar dates to them would have meant inventing four dates for material the book has deliberately kept unstamped; the numbering fix is the fix.
 
 **Dividers:** the manuscript uses two divider styles — 81 × `---` and 48 × `• • •` — which is invisible in the PDF's own pages but obvious in any reflow. All 81 normalised to `• • •`. This is presentation, not prose: reverse it in one find-and-replace if you want the other style. Logged here so it isn't mistaken for an edit to the text.
+""")
+doc.append("### Pass two — the read-through\n")
+doc.append(table(rows(["Continuity — pass-two fixes"])))
+doc.append("""
+Reading the revised book end to end, as a reader rather than an editor, turned up three things the first pass could not see — and one of them was created by the first pass.
+
+**The dates are now strictly ordered.** Every one of the 37 stamped sections runs forward from Ch. 1. The three apparent exceptions are the interstitials, and they are deliberate: Dakar (`Days 18–24`) sits after Ch. 9 (`Day 23`), Notices (`Days 78–92`) before Ch. 22 (`Days 86–93`), Interlude IV (`Day 143`) inside Ch. 32's window (`Days 142–150`). Each is a document that covers a period and is placed inside it. That is the book's own system, not a fault, and I have left it alone.
+
+**The two remaining reversed chapters were the last of the March problems.** Ch. 25 opened on Day 105, which Ch. 24 now reaches the end of on Day 108. Moving the stamps (not the scenes) gives 105 | 105–108 | 108–110 | 110–115, and the March chapters stop jumping backwards. FLAG 3's fix is what made this visible: re-stamping Ch. 24 was correct, and it left its neighbour behind — the same failure mode as FLAG 1, one chapter later.
+
+**One date in the coda was a week out.** Okafor's page reached Elena two days before the Ch. 31 interview on the twenty-first of April, not in "the last week of April". In a book whose argument is that a date is the only thing that holds, the last page cannot be the one that rounds.
 """)
 doc.append("---\n")
 doc.append("## 3. The line pass\n")

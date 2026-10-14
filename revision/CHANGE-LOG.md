@@ -8,7 +8,7 @@
 
 ## 1. What this pass is, and what it is not
 
-This is the **continuity pass and the line pass**, applied in one sweep, exactly as the assessment's §8 sequence recommended — with one difference: the structural cut (`revision-plan.md`, Tier 1 ≈4,350–5,000 words) has **not** been done, because you asked for the fixes and the lines. So the file you have is D3 made *consistent* and D3 made *quieter*, at the same length: **110,164 → 110,033 words (−131)**, in **41 edits** across the book's 34 chapters, four CUSTOS interstitials and the coda.
+This is the **continuity pass and the line pass**, applied in one sweep, exactly as the assessment's §8 sequence recommended — with one difference: the structural cut (`revision-plan.md`, Tier 1 ≈4,350–5,000 words) has **not** been done, because you asked for the fixes and the lines. So the file you have is D3 made *consistent* and D3 made *quieter*, at the same length: **110,164 → 110,025 words (-139)**, in **47 edits** across the book's 34 chapters, four CUSTOS interstitials and the coda — 41 in the first pass (the fixes and the six line rules) and 6 in the second (a full read-through of the result, which found six more).
 
 That is deliberately a small number of words. Every one of the six line rules is applied where the text supports it, and where it doesn't I have said so rather than manufactured a cut — §4 below is the pushback section, and it is longer than usual because three of the six rules turned out to be either misdiagnosed or already satisfied.
 
@@ -96,6 +96,22 @@ On FLAG 7, the audit's suggestion is the one that makes the book better and I've
 
 **Dividers:** the manuscript uses two divider styles — 81 × `---` and 48 × `• • •` — which is invisible in the PDF's own pages but obvious in any reflow. All 81 normalised to `• • •`. This is presentation, not prose: reverse it in one find-and-replace if you want the other style. Logged here so it isn't mistaken for an edit to the text.
 
+### Pass two — the read-through
+
+| # | Location | Before → After | Why |
+|---|---|---|---|
+| **G1** | Chapter Twenty-Five - The Dublin Rules | *Days 105–107* → **Days 108–110** | Pass two. Ch. 25 still began before Ch. 24 ended (Ch. 24 now runs to Day 108), the last backwards step in the sequence. The chapter has no internal day anchors of its own, so the stamp moves rather than the scene. |
+| **G2** | Chapter Twenty-Six - The Plan | *Days 108–115* → **Days 110–115** | Pass two. Touches Ch. 25's new close, so the March chapters run strictly forward: 105 | 105–108 | 108–110 | 110–115. The meeting itself is still after Sal's letter (Day 108); the wider span is the planning run-up to 2 April. |
+| **G6** | Coda - Ghost Routes & a Postcard | *what his handwriting did in the last week of April* → **what his handwriting did in April** | Pass two. The page reached Elena two days before the twenty-first of April interview (Ch. 31), so 'the last week of April' was one week out. In a book whose whole argument is that dates are the only thing that holds, the coda should not be the one place that rounds. |
+
+Reading the revised book end to end, as a reader rather than an editor, turned up three things the first pass could not see — and one of them was created by the first pass.
+
+**The dates are now strictly ordered.** Every one of the 37 stamped sections runs forward from Ch. 1. The three apparent exceptions are the interstitials, and they are deliberate: Dakar (`Days 18–24`) sits after Ch. 9 (`Day 23`), Notices (`Days 78–92`) before Ch. 22 (`Days 86–93`), Interlude IV (`Day 143`) inside Ch. 32's window (`Days 142–150`). Each is a document that covers a period and is placed inside it. That is the book's own system, not a fault, and I have left it alone.
+
+**The two remaining reversed chapters were the last of the March problems.** Ch. 25 opened on Day 105, which Ch. 24 now reaches the end of on Day 108. Moving the stamps (not the scenes) gives 105 | 105–108 | 108–110 | 110–115, and the March chapters stop jumping backwards. FLAG 3's fix is what made this visible: re-stamping Ch. 24 was correct, and it left its neighbour behind — the same failure mode as FLAG 1, one chapter later.
+
+**One date in the coda was a week out.** Okafor's page reached Elena two days before the Ch. 31 interview on the twenty-first of April, not in "the last week of April". In a book whose argument is that a date is the only thing that holds, the last page cannot be the one that rounds.
+
 ---
 
 ## 3. The line pass
@@ -112,6 +128,9 @@ Grouped by rule. The marked-up DOCX shows each of these in place; this table is 
 | **C4** | Chapter Eighteen - The Second Run | *, and she would think about it for the rest of the book.* → **.** | Rule 3. The sentence is stronger ending on 'stayed hers'. |
 | **C5** | Chapter Nineteen - The Betrayal That Isn't | *, which was the point of the chapter of their lives they were in* → **—** | Rule 3. |
 | **C6** | Chapter Twenty-Four - Confession | *, whatever the chapter is called in your notebook* → **—** | Rule 3. Sal's 'It is an application' is the payoff; the aside was stepping forward to explain the joke. |
+| **G3** | Coda - Ghost Routes & a Postcard | *are not in this book.* → **are not written down anywhere.** | Pass two, rule 3 — and a genuine trip-up: 'this book' in that sentence meant the novel, while 'the book' two paragraphs later means Mara's exercise book. One word, two objects, four lines apart. |
+| **G4** | Coda - Ghost Routes & a Postcard | *and the letter is in the book.* → **and the letter is in her book.** | Pass two. Same fix from the other side: the letter is in Mara's book, not in this one. |
+| **G5** | Coda - Ghost Routes & a Postcard | *because the answer does not change a single thing about the people in the book.* → **because the answer does not change a single thing about any of them.** | Pass two, rule 3. The last remaining fourth-wall touch apart from the postcard's, and it was there to be cut. |
 
 Six of the seven fourth-wall moments are gone; the postcard's is untouched, as recommended. That leaves one, where there were seven.
 
@@ -166,8 +185,8 @@ The PDF's text layer gives one line per block, so paragraphing was rebuilt mecha
 
 Every edit is then applied by **exact-string match against one numbered paragraph**, with the match required to be unique; if a string had moved or read differently the build fails rather than guessing. The result:
 
-- **41 paragraphs carry edits, 82 carry a normalised divider, 3229 are untouched.** No paragraph was edited that is not listed in §2–§3, and no edit was made in a paragraph that is not listed.
-- Word count: 110,164 → 110,031 on the extraction used (two equally valid paragraph reconstructions of this PDF differ by ±2 words and thirty paragraph breaks; the edited text is identical in both after whitespace normalisation).
+- **47 paragraphs carry edits, 82 carry a normalised divider, 3223 are untouched.** No paragraph was edited that is not listed in §2–§3, and no edit was made in a paragraph that is not listed.
+- Word count: 110,164 → 110,025 on the extraction used (two equally valid paragraph reconstructions of this PDF differ by ±2 words and thirty paragraph breaks; the edited text is identical in both after whitespace normalisation).
 - Insertions are highlighted and deletions struck through in `D3_REVISED_marked.docx`; the paragraph's surrounding text is untouched in both DOCX files.
 - `D3_REVISED_manuscript.md` is the same text, clean, for reading and for searching.
 

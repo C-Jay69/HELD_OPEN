@@ -5053,7 +5053,7 @@ The room was quiet.
 
 ## Chapter Twenty-Five - The Dublin Rules
 
-*Days 105–107*
+*Days 108–110*
 
 The two of them had been in the same building for four months and had said perhaps forty sentences to each other, and every one of the forty had been about somebody else.
 
@@ -5196,7 +5196,7 @@ And Mara, going up the stairs an hour later with the ledger under her arm and Sa
 
 ## Chapter Twenty-Six - The Plan
 
-*Days 108–115*
+*Days 110–115*
 
 They held it in the filing hall because it was the only room in the building where nine people could sit around one table, and because half the shelves behind them were empty now, which was its own kind of briefing.
 
@@ -6780,7 +6780,7 @@ She did not sit. He did not offer her a chair, because he had learnt that offeri
 
 They talked about the well, the roof, a neighbour. She asked one question about her mother; he answered in four sentences, every one true and none of them any use. She did not ask a second. He did not offer a fifth.
 
-Then she went into the middle room, stood at the top of the stair with the hatch up and the smell of damp coming out, and did not say anything for a while. He stayed in the courtyard and did not follow her. The two things he thought about in the eleven minutes she was under the ground are not in this book.
+Then she went into the middle room, stood at the top of the stair with the hatch up and the smell of damp coming out, and did not say anything for a while. He stayed in the courtyard and did not follow her. The two things he thought about in the eleven minutes she was under the ground are not written down anywhere.
 
 When she came up she had dust on her good coat and a torch in her hand, taken from his kitchen without asking.
 
@@ -6792,7 +6792,7 @@ When she came up she had dust on her good coat and a torch in her hand, taken fr
 
 It was the only time in the two hours that her voice did the thing it did on the bulletin at four in the morning. She put the torch back on the kitchen table, drank a cup of tea standing up, looked at the room with the bed in it and did not open the door, and at four o’clock drove back to the city.
 
-He never told her what he thought about in those eleven minutes. He told Mara once, in a letter, and the letter is in the book.
+He never told her what he thought about in those eleven minutes. He told Mara once, in a letter, and the letter is in her book.
 
 There are two more entries, one line each.
 
@@ -6800,7 +6800,7 @@ Sal. His standing order is still being paid. Roux checks it twice a year out of 
 
 Nobody has stopped it. Nobody is going to.
 
-Okafor. A man at desk one hundred and nine in a hangar in the west. Never contacted, never named, never thanked, never paid. He does not know, and will not know, what his handwriting did in the last week of April, because the woman it reached is the only person in the world who could tell him, and she has decided, as a matter of professional ethics, not to.
+Okafor. A man at desk one hundred and nine in a hangar in the west. Never contacted, never named, never thanked, never paid. He does not know, and will not know, what his handwriting did in April, because the woman it reached is the only person in the world who could tell him, and she has decided, as a matter of professional ethics, not to.
 
 He is the reason. That is in the book, on its own line, in Mara’s hand, and it will never be in anybody else’s.
 
@@ -6830,7 +6830,7 @@ Then, under it, in the same small hand that wrote the four doctrine lines on the
 
 Not the point. The story is what a man has instead of a file.
 
-She has stopped trying to weigh the two, because she is not qualified and neither is anybody, and because the answer does not change a single thing about the people in the book.
+She has stopped trying to weigh the two, because she is not qualified and neither is anybody, and because the answer does not change a single thing about any of them.
 
 What she knows, at the end of it, is this. There is a building in the west where three thousand eight hundred and forty-one people are persons in a register, and the difference between that and what was there before is a page, a fuse and a woman with a torch. There is a sentence in an appendix that says the count is persons and persons are not positions, which will be in the manual in two years and which nobody will ever be able to trace. There is a ledger on a shelf in a basement next to a bed block, with two words in entry sixteen thousand and twelve that still do not agree, and they never will, and it is the only book Sal Castellano ever kept and he wanted it kept.
 
