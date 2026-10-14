@@ -34,8 +34,8 @@ EDITS = [
  "FLAG 2. Kavanagh signs the sponsoring certification on Day 91 = 2 March; the receipt must acknowledge that date."),
 
 ("A7","Continuity — March window",2610,
- "since the ninety-eighth day","since the hundred and eighth day",
- "FLAG 4. Sal's application is written in the small hours of Day 108 (Ch. 24) and posted on 2 April: 'Two weeks' in the next clause is then exactly right."),
+ "since the ninety-eighth day","since the nineteenth of March",
+ "FLAG 4, and refined on the re-read: Sal's application is written in the small hours of Day 108 (Ch. 24) and posted on 2 April, so 'Two weeks' in the next clause is exactly right. The date is given as 19 March rather than 'the hundred and eighth day' — day-numbers in this book are the crew's shorthand, but Sal is a man of dates, and the next clause of his own sentence is a date."),
 
 ("A8","Continuity — number slip",2615,
  "I have 411 items of ash","I have two hundred and eleven items of ash",
@@ -181,9 +181,9 @@ EDITS = [
  "Rule 2. Same meaning, past tense, no promise of future uncertainty."),
 
 ("F3","Line rule 2 — summary tic",1550,
- "long enough that she would remember the exact length of it, and would never be able to decide whether it mattered or whether it was only a man being old and visible in the dark.",
- "and it was only a man being old and visible in the dark.",
- "Rule 2. Garrity taking four seconds of applause is the scene; the four lines about what Mara will make of it forty years later were the paragraph after the scene."),
+ ", long enough that she would remember the exact length of it, and would never be able to decide whether it mattered or whether it was only a man being old and visible in the dark.",
+ ". He was only a man being old and visible in the dark.",
+ "Rule 2. Garrity taking four seconds of applause is the scene; the four lines about what Mara will make of it forty years later were the paragraph after the scene. (Re-read fix: the cut left the final clause hanging on a pronoun, so it starts a sentence of its own.)"),
 
 ("F4","Line rule 1 — mechanism",2890,
  "Then she did the thing she had learnt to do in February and had been doing ever since, which was to take a person at his word and put it on the record.",
@@ -191,9 +191,9 @@ EDITS = [
  "Rule 1. This was a near-verbatim repeat of the same sentence in Ch. 26 (\"did the thing she had been learning to do since February, which was to take a person at his word\")."),
 
 ("F5","Line rule 2 — summary tic",2226,
- "and understood that she was looking at a document about a person, and that the person was Kavanagh, and that a page with his name on it",
- "and a page with his name on it",
- "Rule 2. The paragraph ends on 'the word authorize', which is the point; the scaffolding in front of it was explaining the point."),
+ "Mara watched him do it \u2014 the name, the registration number, the date \u2014 and understood that she was looking at a document about a person, and that the person was Kavanagh, and that a page with his name on it",
+ "Mara watched him do it \u2014 the name, the registration number, the date. A page with his name on it",
+ "Rule 2. The paragraph ends on 'the word authorize', which is the point; the scaffolding in front of it was explaining the point. (Re-read fix: the sentence is broken after the em-dash aside rather than left as a comma splice.)"),
 ]
 
 # Presentation normalisation (all scene dividers to one style) — logged separately, not paragraph-specific.

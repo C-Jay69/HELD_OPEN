@@ -3130,7 +3130,7 @@ It was beautiful.
 
 Mara was not a judge of flying, but the whole field went still in the same instant, because the aeroplane met the first metre of grass at the exact speed that made the wheels kiss it, and ran out light and straight down the slope, and the tail came down at the top of the strip with thirty metres spare, and the engine shut off, and the propeller ticked, and there was the sound of a farmer's dogs on the next hill and nothing else.
 
-Garrity got out on the wing. He stood there, one hand on the windscreen, and looked down at all of them, and, God help him, he took the applause. Four seconds of it. Long enough that Mara could see he had been waiting since the day he arrived, and it was only a man being old and visible in the dark.
+Garrity got out on the wing. He stood there, one hand on the windscreen, and looked down at all of them, and, God help him, he took the applause. Four seconds of it. Long enough that Mara could see he had been waiting since the day he arrived. He was only a man being old and visible in the dark.
 
 Roux handed the canister out. Then she got out, and her legs were not good, and she stood holding the wing with both hands for a moment and said, in the flat voice she used for numbers, "That is the worst thing I have ever done and I have run a systems directorate."
 
@@ -4529,7 +4529,7 @@ Crane could not sign alone. The review needed a sponsoring signatory, a person o
 
 He signed.
 
-Mara watched him do it — the name, the registration number, the date — and a page with his name on it was now in a system that had spent eleven years being very good at the word authorize.
+Mara watched him do it — the name, the registration number, the date. A page with his name on it was now in a system that had spent eleven years being very good at the word authorize.
 
 "How long," she said.
 
@@ -5324,7 +5324,7 @@ Then Sal Castellano said, from the end of the table, in the exact voice, with th
 
 He put the sheet of paper on the table. Four lines, in the small upright hand, the address block perfect and complete, and Mara had carried it up the stairs four nights earlier and put it under the mattress on the far side and had not touched it since, which meant that he had gone into her room and taken it back, and that was a sentence that nobody in the hall said out loud.
 
-“Two weeks,” said Sal. “My application has been under a mattress since the hundred and eighth day. I will send it myself on 2 April, with the movement. If I am wrong about the ending, the register will say a man here asked to be revisited while he could still speak.”
+“Two weeks,” said Sal. “My application has been under a mattress since the nineteenth of March. I will send it myself on 2 April, with the movement. If I am wrong about the ending, the register will say a man here asked to be revisited while he could still speak.”
 
 "Sal—" Mara began.
 
