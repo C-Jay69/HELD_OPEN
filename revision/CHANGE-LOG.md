@@ -29,7 +29,7 @@ The seven flags from `continuity-audit.md`, plus the three housekeeping items. S
 
 | Day | Date | Event | Where |
 |---|---|---|---|
-| 71–75 | 10–15 Feb | Mesa is collected at the annex; taken to the western facility | Ch. 20 |
+| 71–75 | 10–14 Feb | Mesa is collected at the annex; taken to the western facility | Ch. 20 |
 | 79 | **18 Feb** | Mesa's intake interview at the western facility | Ch. 24's letter (**new date**) |
 | 80 | 19 Feb | The Office's letter arrives; the blame argument | Ch. 24 (flashback) |
 | 86–93 | 25 Feb – 4 Mar | The crew reads the letter; Kavanagh's plan; Naas | Ch. 22 |
@@ -59,7 +59,7 @@ The audit recommended keeping the eighth and making it explicit: *"interviewed a
 
 In **Ch. 22, opening scene (Days 86–93, i.e. 25 February – 4 March)** the crew is already holding that exact letter — not a similar one, the same one: *"Mara had it in front of her — the letter from the office, the one with a typo in it, and she read the middle paragraph out loud for the third time in a week"*, followed by *"The person concerned has requested that his profession be entered as maritime. The request has been granted."* That sentence is verbatim the Ch. 24 letter. A letter written *after* an interview on 8 March cannot be read aloud on 25 February, and the whole Ch. 22 plan (the maritime category → the designated port office) is built on it.
 
-So the March date on that interview is a second relic of the same moved schedule as FLAG 1 — the interview was once the 8th, the appointment moved to the 16th, and this date was left behind. The interview therefore moves to the one part of the window that can hold it: the facility intake, after Mesa's collection (~15 February) and early enough for the letter to reach the crew before Ch. 21's plan meeting. **18 February (Day 79)** sits inside Ch. 21's own Days 77–85 stamp, requires no scene to move, and leaves 2 March as the only March date in the window — which is what Kavanagh's receipt now acknowledges.
+So the March date on that interview is a second relic of the same moved schedule as FLAG 1 — the interview was once the 8th, the appointment moved to the 16th, and this date was left behind. The interview therefore moves to the one part of the window that can hold it: the facility intake, after Mesa's collection (~14 February) and early enough for the letter to reach the crew before Ch. 21's plan meeting. **18 February (Day 79)** sits inside Ch. 21's own Days 77–85 stamp, requires no scene to move, and leaves 2 March as the only March date in the window — which is what Kavanagh's receipt now acknowledges.
 
 Two consequences worth knowing:
 1. It also **resolves Housekeeping item 4** (the Ch. 22 "typo" reference being premature). In story time the crew has now had the letter, typo and all, for a week before Ch. 22 opens: *"the one with a typo in it"* stops being a forward reference and becomes a plant that pays off in Ch. 24's *"Wrong word for a man in a room with no door. Accommodated."* No edit was needed in Ch. 22 at all.
