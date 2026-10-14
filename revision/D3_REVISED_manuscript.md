@@ -591,7 +591,9 @@ The room was quiet. Somewhere outside, a horse kicked a door, twice, without mal
 
 "Yes."
 
-He nodded slowly. He looked, for a moment, like a man who has been told the result of a race he did not watch. Then he stood up, went to the Aga, and filled the kettle he had not needed to fill, and stood with his back to her, and said: "Tell me about the girl. The one in the file. Lin Shu."
+He nodded slowly. He looked, for a moment, like a man who has been told the result of a race he did not watch. Then he stood up, went to the Aga, and filled the kettle he had not needed to fill, and stood with his back to her, and said:
+
+"Tell me about the girl. The one in the file. Lin Shu."
 
 "She's not in the file yet."
 
@@ -822,11 +824,15 @@ She stayed for the meal. There were forty people in the hall and there would hav
 
 She found him afterwards at the long table he had been given in the corner, with his carbon copies and his string-tied bundles, doing his filing, in the middle of forty people eating, with the absolute self-possession of a man in his own office.
 
-She sat down across from him and told him, properly and honestly, what the coalition had and what it wanted and what she was afraid of, and she did not dress it up, and she did not lie, and she watched him listen to the entire thing without once changing expression, and at the end of it he said: "What's the price?"
+She sat down across from him and told him, properly and honestly, what the coalition had and what it wanted and what she was afraid of, and she did not dress it up, and she did not lie, and she watched him listen to the entire thing without once changing expression, and at the end of it he said:
+
+"What's the price?"
 
 "You tell me."
 
-And this is where he surprised her, because he did not ask for money, he did not ask for safety, and he did not ask for his record to be opened or for a lawyer or for anybody's protection. He straightened a bundle of carbons on the table, squared the string on it twice, and said: "One answer. In writing. On paper, signed by the office, with a date on it and a name on it. I write a letter. They answer it."
+And this is where he surprised her, because he did not ask for money, he did not ask for safety, and he did not ask for his record to be opened or for a lawyer or for anybody's protection. He straightened a bundle of carbons on the table, squared the string on it twice, and said:
+
+"One answer. In writing. On paper, signed by the office, with a date on it and a name on it. I write a letter. They answer it."
 
 Mara said, "To the movement authority? Nobody answers those."
 
@@ -1057,7 +1063,9 @@ Mara looked at him. He was seventy-four, the day was cold, he had a bad foot, an
 
 "Michoacán, down the coast, then across at Huixtla. The river's low this time of year."
 
-The old man looked at her for a moment. Then he looked out at the road with the very faint, very private satisfaction of somebody who has just had a small bet confirmed, and he said: "Not Huixtla. The water's up. They've had three weeks of rain in the Chiapas highlands and the gauge at Escuintla has been above the marker since Thursday."
+The old man looked at her for a moment. Then he looked out at the road with the very faint, very private satisfaction of somebody who has just had a small bet confirmed, and he said:
+
+"Not Huixtla. The water's up. They've had three weeks of rain in the Chiapas highlands and the gauge at Escuintla has been above the marker since Thursday."
 
 And Mara Voss stood on the shoulder of a mountain road at eight in the morning on the sixteenth day of the end of the world, with the maguey in rows behind her and a dead man's house below her, and understood that she had just been told the water level of a river four hundred kilometres away by a man who had no intention of coming.
 
@@ -1188,7 +1196,9 @@ Mesa listened to the whole thing with his eyes half closed, like a man at a conc
 
 She gave him the message at four, in the flat gold light, because she had decided she was not going to be able to reach him any other way and because she wanted to watch.
 
-She had rehearsed a version of it. What she said was: "Don Rinaldo asked me to give you something."
+She had rehearsed a version of it. What she said was:
+
+"Don Rinaldo asked me to give you something."
 
 The change was immediate and small. The cigar stopped moving.
 
@@ -1857,7 +1867,9 @@ At ten past nine a woman arrived in a coalition car with two plastic bags of foo
 
 At twenty past nine an Irishman walked the last two kilometres in from the bus stop with an umbrella, signed the visitors' book — the visitors' book — in the copperplate of a man taught by nuns, and then, because nobody had asked him to, went into the filing hall and started reading the finding aids.
 
-At a quarter to ten Brandt came out of her office, stood at the top of the stairwell and looked down at her command post, which now contained four internationally wanted criminals, one yellow dog, a wheelchair, two hundred kilos of paperwork and a woman cooking. She said, to Mara, in a voice of great and controlled calm: "You have twenty minutes to tell me what you have done to this building."
+At a quarter to ten Brandt came out of her office, stood at the top of the stairwell and looked down at her command post, which now contained four internationally wanted criminals, one yellow dog, a wheelchair, two hundred kilos of paperwork and a woman cooking. She said, to Mara, in a voice of great and controlled calm:
+
+"You have twenty minutes to tell me what you have done to this building."
 
 
 *• • •*
@@ -1992,7 +2004,10 @@ Then she said, "You are not a confused man."
 
 "No," said Sal Castellano, and closed his eyes again, and said nothing further for the rest of the meeting.
 
-• • • "Mr. Garrity."
+
+*• • •*
+
+"Mr. Garrity."
 
 "Yes, ma'am."
 
@@ -2088,7 +2103,9 @@ He said the last part lightly, and nobody laughed, and something crossed El Búh
 
 She got the last fifteen minutes back, and she did not get them by earning them. She got them because the room had finished, and because Lin Shu looked at the clock and said, "Ask them now," and Mara understood she was being handed something by a woman who had decided she would rather the room kept moving than sit in a basement in Belgium with that silence in it.
 
-So Mara did the only thing she had left, which was not a plan and not a briefing and not a speech. She tore a page out of the annex, wrote THE LINES at the top of it, and said: "I'm not going to ask any of you to promise me anything. Promises are what governments do, and you don't believe them, and you're right not to. So I want one thing from each of you, and it isn't loyalty." She looked up. "Tell me the one thing you will not do. Not the thing you don't want to do. The line. I'll write it down. I'll hold you to it, you can hold me to it, and at the end of this we'll all find out which of us was lying."
+So Mara did the only thing she had left, which was not a plan and not a briefing and not a speech. She tore a page out of the annex, wrote THE LINES at the top of it, and said:
+
+"I'm not going to ask any of you to promise me anything. Promises are what governments do, and you don't believe them, and you're right not to. So I want one thing from each of you, and it isn't loyalty." She looked up. "Tell me the one thing you will not do. Not the thing you don't want to do. The line. I'll write it down. I'll hold you to it, you can hold me to it, and at the end of this we'll all find out which of us was lying."
 
 Nobody said anything for a while.
 
@@ -2391,7 +2408,9 @@ Mara looked at the page.
 
 "No." He shook his head, once. "Not no origin. The hospital wrote that it could not determine one. That is different. That is not a hole in the record. That is a word the record did not have before, and it now has it, and it will put that word next to itself, and it will look for the second time it sees it."
 
-He started walking up toward the doors. Then he stopped, and said, without turning round: "Ask Lin Shu to come and see me in the morning. And tomorrow we start teaching a machine a word we do not want it to know."
+He started walking up toward the doors. Then he stopped, and said, without turning round:
+
+"Ask Lin Shu to come and see me in the morning. And tomorrow we start teaching a machine a word we do not want it to know."
 
 
 *• • •*
@@ -3618,7 +3637,9 @@ Garrity, who had been reading over her shoulder with the dog's chin on his bad k
 
 “Every one of these is fine. That is the trouble. I worked among reasonable people and ended up flying crates at four in the morning for men we could not name.” He turned a page of correspondence. “Somewhere a person had to say no and did not, because the form was on the other side of the world and due Friday.”
 
-Sal, across the table, said nothing at all. Mara looked up and saw that he had stopped reading. He was sitting with his hand on a page and his eyes on the middle distance, and he stayed there for eleven or twelve seconds, and then he said, in a voice she had not heard from him before, which was neither the porch voice nor the exact voice but simply an old man in a kitchen at two in the morning: "I have held this book."
+Sal, across the table, said nothing at all. Mara looked up and saw that he had stopped reading. He was sitting with his hand on a page and his eyes on the middle distance, and he stayed there for eleven or twelve seconds, and then he said, in a voice she had not heard from him before, which was neither the porch voice nor the exact voice but simply an old man in a kitchen at two in the morning:
+
+"I have held this book."
 
 Nobody said anything.
 
@@ -3658,7 +3679,9 @@ The last thing in the pallet was the only thing that mattered to anyone who had 
 
 It was a standard consolidation schedule for the quarter, printed on both sides, four hundred lines, the sort of thing that is nailed to the inside of a door in a warehouse. Each line: a facility, a medium, a tonnage, and a collection window.
 
-Roux found it at ten past twelve, and she did not say anything, and she did not hand it to anybody. She read down it twice with her finger, and then she went to the wall map and put her finger on a point in the middle of the bog, and said, in the flat voice she used for numbers: "Reserve Facility 4-C. County Meath. Microform. Thirty-seven tonnes. Collection, week commencing the thirtieth of March."
+Roux found it at ten past twelve, and she did not say anything, and she did not hand it to anybody. She read down it twice with her finger, and then she went to the wall map and put her finger on a point in the middle of the bog, and said, in the flat voice she used for numbers:
+
+"Reserve Facility 4-C. County Meath. Microform. Thirty-seven tonnes. Collection, week commencing the thirtieth of March."
 
 Nobody spoke. Upstairs, in three hundred metres of steel shelving, forty kilometres of microfilm sat in the dark, humming, on this building's own land, catalogued, indexed and - as of the thirtieth day, when the consolidation programme began - known, because a records office cannot collect a thing it has no entry for.
 
@@ -4159,7 +4182,9 @@ The camera came up. He put his hand on the door frame and stood the way he alway
 
 Then a second vehicle came up the lane at twenty to nine, dark, three men and a folder, and the woman with the clipboard said something to the leader of them that Mara was never able to get exactly, only its shape, which was: the entry cannot be completed in the field.
 
-They did not put hands on him. That was the part the priest kept coming back to. Nobody touched him. A man opened a car door and stood beside it like a chauffeur, and another man said, "We would ask you to complete the record in person," and Rafael Mesa, sixty-nine years old, of Veracruz, looked at the two people, and at the clean white van with the livery on it, and at the honest priest standing on his own steps, and he did the only thing he had been able to do since he was twenty-two, which was to perform the moment, and he said: "I will not be rescued."
+They did not put hands on him. That was the part the priest kept coming back to. Nobody touched him. A man opened a car door and stood beside it like a chauffeur, and another man said, "We would ask you to complete the record in person," and Rafael Mesa, sixty-nine years old, of Veracruz, looked at the two people, and at the clean white van with the livery on it, and at the honest priest standing on his own steps, and he did the only thing he had been able to do since he was twenty-two, which was to perform the moment, and he said:
+
+"I will not be rescued."
 
 And he got into the car.
 
@@ -4230,7 +4255,9 @@ Roux looked up. "What entry."
 
 “An inventory entry at a hospital in Iceland, on the First Run. A Brazilian doctor wrote ‘origin not established’ because it was true.” Mara put her hand on the table. “This morning that sentence became a field, a flag and a denial in a Galway hospital, in the correct order, with no mistake.”
 
-Nobody said anything for a while. Then Sal Castellano said, from the armchair, in the small dry voice, without lifting his head: “That is not a machine, Ms. Voss. That is a ledger,” said Sal. “I have kept one for sixty-four years and tried to understand this Office. Now I know: it is my book with the cost column taken out.”
+Nobody said anything for a while. Then Sal Castellano said, from the armchair, in the small dry voice, without lifting his head:
+
+“That is not a machine, Ms. Voss. That is a ledger,” said Sal. “I have kept one for sixty-four years and tried to understand this Office. Now I know: it is my book with the cost column taken out.”
 
 
 *• • •*
@@ -4314,7 +4341,9 @@ Reserve Facility 4-C. County Meath. Microform. Thirty-seven tonnes. Collection, 
 
 “The sixteenth,” said Roux. “They brought it forward two weeks because the programme is behind, the registrar can accelerate batches, and a schedule is a piece of paper; acceleration is a form.” She looked up, her face as it had been in the February corridor. “We have three weeks and one day. They will open the vault: every page in this building, Sal’s letters, the two hundred and forty-one names Lin Shu moved in 1998 and the sixty-eight she left, the newspaper with forty-one names, the Rotterdam letters, the ledger — everything we used to fight this — goes into a batch and is destroyed. The destruction is not the tragedy. The register entry that records it will be correct.”
 
-Sal Castellano stood up out of the armchair, slowly, in the cardigan, with the bound book under his arm that he now carried everywhere, and he walked to the map on the wall and put his hand flat on the county of Roscommon and said, in the exact voice, to the room, in the tone of a man opening a meeting: "Then we have three weeks, and a man to get out of a facility in the west, and a vault to empty. I propose we begin with the man, because a man is a thing that can be moved and a vault is a thing that must be argued with." He turned around. "And I propose that the argument be conducted by Mr. Kavanagh, because he is the only one of us who has ever made a document in this country that a decent man could not say no to."
+Sal Castellano stood up out of the armchair, slowly, in the cardigan, with the bound book under his arm that he now carried everywhere, and he walked to the map on the wall and put his hand flat on the county of Roscommon and said, in the exact voice, to the room, in the tone of a man opening a meeting:
+
+"Then we have three weeks, and a man to get out of a facility in the west, and a vault to empty. I propose we begin with the man, because a man is a thing that can be moved and a vault is a thing that must be argued with." He turned around. "And I propose that the argument be conducted by Mr. Kavanagh, because he is the only one of us who has ever made a document in this country that a decent man could not say no to."
 
 Kavanagh, very quietly, from his chair: "Yes. I'll make the call."
 
@@ -4442,7 +4471,10 @@ Kavanagh sat and looked at him, and did not speak for a while, and when he spoke
 
 Crane's face did not do anything for eleven seconds. Then he said, "What do you want."
 
---- "A respondent. Rafael Mesa. Held at the western facility. He has requested in writing that his profession be entered as maritime. I want the office to complete his entry where a maritime entry must be completed, which is at a designated office at a port, with the respondent produced."
+
+*• • •*
+
+"A respondent. Rafael Mesa. Held at the western facility. He has requested in writing that his profession be entered as maritime. I want the office to complete his entry where a maritime entry must be completed, which is at a designated office at a port, with the respondent produced."
 
 Crane laughed. It was a short, terrible laugh.
 
@@ -4522,7 +4554,9 @@ The room was quiet.
 
 “A man who has been eaten should be allowed to be full,” said El Búho. “The cost is a line in the register. He will spend the rest of his life as a fact. That is what the machine does. It does not kill people; it concludes them.” He turned to go. “Ask Lin Shu. She has counted the concluded for thirty years and has never been wrong about what it does.”
 
-Lin Shu did not look up. She said, to the table, in the voice she used for lists and weather: "Somebody has to sign for him. A resolution requires a receiving person. The record does not close on an empty field." She turned the register page over once, deliberately, and put it face down. "I will sign it. I move people. It is what I do, and it is the only signature I have ever been able to give, and I will be giving it in my own name."
+Lin Shu did not look up. She said, to the table, in the voice she used for lists and weather:
+
+"Somebody has to sign for him. A resolution requires a receiving person. The record does not close on an empty field." She turned the register page over once, deliberately, and put it face down. "I will sign it. I move people. It is what I do, and it is the only signature I have ever been able to give, and I will be giving it in my own name."
 
 Mara said, "Lin Shu."
 
@@ -4674,7 +4708,9 @@ The woman with the clipboard sat with him. She had done this for nine years and 
 
 The woman wrote. Then she said: "The record permits a brief remark from the respondent. It is not required. Most people don't."
 
-And Rafael Mesa, who had dictated nine hundred pages of a memoir to keep the police files from being the last thing written about him, who had told the story of a bull and a hopper to a room of armed men for four minutes of applause, who had carried a dog forty metres along a quay because it did not like the grating — Rafael Mesa sat in a plastic chair in a port office and said, in a voice with no theatre in it at all, in nine lines, in order: "I wish it recorded that on the fourteenth of April 2015, at about four in the afternoon, in position seventeen degrees north, I sighted a drifting vessel. I wish it recorded that I made no report, and gave no assistance, and that there were eighty-one persons aboard. I wish it recorded that the vessel and the persons aboard it were not entered in any official record by me or by my office or by any agent of mine, and that the only record of that afternoon is six words in a log book in my own hand, in pencil." A pause. "I wish it recorded that four women died on the following morning and that I know that because a man in my crew read it in a newspaper eleven days later and brought it to me, and I did not write that part down. I wish it recorded that I have looked at that page every year for eleven years." A pause. "I wish it recorded that I am the master of the vessel, and that I was, and that this is my statement, and that I make it freely, and that I am not asking for anything."
+And Rafael Mesa, who had dictated nine hundred pages of a memoir to keep the police files from being the last thing written about him, who had told the story of a bull and a hopper to a room of armed men for four minutes of applause, who had carried a dog forty metres along a quay because it did not like the grating — Rafael Mesa sat in a plastic chair in a port office and said, in a voice with no theatre in it at all, in nine lines, in order:
+
+"I wish it recorded that on the fourteenth of April 2015, at about four in the afternoon, in position seventeen degrees north, I sighted a drifting vessel. I wish it recorded that I made no report, and gave no assistance, and that there were eighty-one persons aboard. I wish it recorded that the vessel and the persons aboard it were not entered in any official record by me or by my office or by any agent of mine, and that the only record of that afternoon is six words in a log book in my own hand, in pencil." A pause. "I wish it recorded that four women died on the following morning and that I know that because a man in my crew read it in a newspaper eleven days later and brought it to me, and I did not write that part down. I wish it recorded that I have looked at that page every year for eleven years." A pause. "I wish it recorded that I am the master of the vessel, and that I was, and that this is my statement, and that I make it freely, and that I am not asking for anything."
 
 The woman with the clipboard did not speak for a moment.
 
@@ -4748,7 +4784,9 @@ Mesa took the hand.
 
 Garrity brought him into the kitchen and gave him the chair at the end of the table and a cup of tea, and the dog came and put its chin on his knee without being invited, and the crew gathered the way people gather around a man who has come back from somewhere, waiting for the story.
 
-Mesa told it. He got as far as the waiting room and the clerk and the four characters, and it was not funny, and he knew it was not funny, and Mara watched him reach, twice, for the joke that had always been there — the surfacing of an old performer who could make a room of armed men laugh about a bull — and watched him not find it, and then he stopped, in the middle, and put the cup down and said: "I have no story for it."
+Mesa told it. He got as far as the waiting room and the clerk and the four characters, and it was not funny, and he knew it was not funny, and Mara watched him reach, twice, for the joke that had always been there — the surfacing of an old performer who could make a room of armed men laugh about a bull — and watched him not find it, and then he stopped, in the middle, and put the cup down and said:
+
+"I have no story for it."
 
 "Take your time," said Garrity.
 
@@ -4768,7 +4806,9 @@ Rask had stopped them at the gate on paperwork, which he could do for one day an
 
 Sal Castellano was standing at the door of the vault with the bound book under his arm.
 
-Mara got out of the van with the page in her pocket and the port still on her coat and walked across the yard, and the contractor's man stepped forward with the schedule and a pen and started the sentence every person in that yard had heard a hundred times in four months — I just need somebody to sign for the volumes — and Sal took the pen out of the man's hand, and said: "Castellano. S-a-l-v-a-t-o-r-e. I am the archivist of this collection and I will be signing for the volumes, and I would like it noted that I am signing in my own name."
+Mara got out of the van with the page in her pocket and the port still on her coat and walked across the yard, and the contractor's man stepped forward with the schedule and a pen and started the sentence every person in that yard had heard a hundred times in four months — I just need somebody to sign for the volumes — and Sal took the pen out of the man's hand, and said:
+
+"Castellano. S-a-l-v-a-t-o-r-e. I am the archivist of this collection and I will be signing for the volumes, and I would like it noted that I am signing in my own name."
 
 
 *• • •*
@@ -4886,7 +4926,9 @@ Instead she asked him the question she had come down to ask.
 
 "Nineteen ninety-six," she said. "The assessment. The doctor who lasted eleven minutes and wrote that you were not fit to be interviewed." She had the ledger open in front of her — 2 April 1996. To the Medical Board, Antwerp. Re: the assessment of S. Castellano. — and she turned it round to face him, and put her finger under the fourth column. "There is a figure in the cost column. Forty thousand francs."
 
-Sal looked at the page. Then he looked at the window, and then at his own hands, and then he said, in the voice of an old man in a kitchen at two in the morning, which was neither of the other two voices: "I know."
+Sal looked at the page. Then he looked at the window, and then at his own hands, and then he said, in the voice of an old man in a kitchen at two in the morning, which was neither of the other two voices:
+
+"I know."
 
 "What was it for."
 
@@ -5273,7 +5315,9 @@ And it was Mara who finally said it, standing at the back of the board with the 
 
 The room was quiet for a moment.
 
-Then Sal Castellano said, from the end of the table, in the exact voice, with the letter book closed in front of him: "There is one more item and I would like it recorded, and then I am going to bed."
+Then Sal Castellano said, from the end of the table, in the exact voice, with the letter book closed in front of him:
+
+"There is one more item and I would like it recorded, and then I am going to bed."
 
 
 *• • •*
@@ -5313,7 +5357,9 @@ Garrity loaded the dog and the stick and a crate of aviation manuals that nobody
 
 Lin Shu locked the north gate herself. Kavanagh stood in the yard in the good coat with his hands in his pockets and looked at the place the way a man looks at a house he has sold.
 
-Sal Castellano was the last one in. He came out of the accounts office at ten past five with the bound book under his arm and a letter in his hand and set both of them on the seat beside him, and as the van went down the lane he said, in the exact voice, to nobody in particular: "I have been in that building for five months and I have never once learned where the gas meter is. I would like that recorded. It is the only piece of information about this operation that anybody ever failed to obtain."
+Sal Castellano was the last one in. He came out of the accounts office at ten past five with the bound book under his arm and a letter in his hand and set both of them on the seat beside him, and as the van went down the lane he said, in the exact voice, to nobody in particular:
+
+"I have been in that building for five months and I have never once learned where the gas meter is. I would like that recorded. It is the only piece of information about this operation that anybody ever failed to obtain."
 
 
 *• • •*
@@ -5625,7 +5671,9 @@ Except the room.
 
 The number was in the register, the page in a basement under sleeping people, and every part of the plan had worked. Still, two kilometres inland, a woman who had signed four hundred and eleven exceptions in January was at her desk, doing what she had been taught: making the system kind.
 
-Sal had posted his letter at five fifteen, at the post box in the village, at the same hour as the movement, exactly as he had told the room he would, and nobody had watched him do it, because he had asked nobody to watch, and when Mara got back to the house at half past seven the green bag was gone from beside the door and Sal Castellano was sitting at the kitchen table in the cardigan with his hands wrapped around a cup, and he looked up and said, in the exact voice, entirely present: "Good morning. I have done the thing I said I would do, and I have had a cup of tea, and I find that I am extremely tired, and I would like to sit in that chair for the rest of the day."
+Sal had posted his letter at five fifteen, at the post box in the village, at the same hour as the movement, exactly as he had told the room he would, and nobody had watched him do it, because he had asked nobody to watch, and when Mara got back to the house at half past seven the green bag was gone from beside the door and Sal Castellano was sitting at the kitchen table in the cardigan with his hands wrapped around a cup, and he looked up and said, in the exact voice, entirely present:
+
+"Good morning. I have done the thing I said I would do, and I have had a cup of tea, and I find that I am extremely tired, and I would like to sit in that chair for the rest of the day."
 
 Which he did.
 
@@ -6000,7 +6048,9 @@ She stood in the doorway with a page in her hand, and it was his own letter, in 
 
 For four seconds nobody said anything at all.
 
-Then Elena Villalobos came into the room, closed the door behind her with her heel, and said, in the flat voice of a woman who had read everything that had ever been written about the man in front of her and had signed none of it: "You are extremely late, and I have an hour."
+Then Elena Villalobos came into the room, closed the door behind her with her heel, and said, in the flat voice of a woman who had read everything that had ever been written about the man in front of her and had signed none of it:
+
+"You are extremely late, and I have an hour."
 
 
 ## Chapter Thirty-One - Father
@@ -6076,7 +6126,10 @@ El Búho took his hands off the cane and put them in his coat pockets, which was
 
 "Yes," said Elena. "That's what I was afraid of."
 
-• • • "Your turn," she said. "You've had it in your coat since I walked in. Say it."
+
+*• • •*
+
+"Your turn," she said. "You've had it in your coat since I walked in. Say it."
 
 "I have a page," said El Búho.
 
@@ -6110,7 +6163,10 @@ Nobody said anything for a moment. The recorder's little light went on and off o
 
 Mara, from the window, watched the two of them in the grey light with the water running behind the glass, and she understood something else, which was that neither of them was going to lose.
 
-• • • "Two things came into my office this month," said Elena. "I'm going to say them both, because I don't intend to say either of them twice, and then I'm going to close this file and drive back up the road.
+
+*• • •*
+
+"Two things came into my office this month," said Elena. "I'm going to say them both, because I don't intend to say either of them twice, and then I'm going to close this file and drive back up the road.
 
 "The first is your letter.
 
@@ -6126,7 +6182,9 @@ It was the first thing she had said in fifty-one minutes, and both of them looke
 
 "Good," said Elena.
 
-She leaned forward, picked the recorder up off the floor, and said into it, in the flat office voice, without looking away from Mara: "Interview concluded, eleven fifty-two. Determination follows." She pressed it off and put it in her coat.
+She leaned forward, picked the recorder up off the floor, and said into it, in the flat office voice, without looking away from Mara:
+
+"Interview concluded, eleven fifty-two. Determination follows." She pressed it off and put it in her coat.
 
 Then she stood up, and the room got quiet in the way a room gets quiet when the thing that has been listening stops.
 
@@ -6149,7 +6207,9 @@ Elena stood over it and did not touch it, and Mara saw her read it, the way anyo
 
 El Búho picked the envelope up and put it back in his pocket, and did not say anything, and Mara watched him do it and understood that the worst thing that had happened in the room had happened in four seconds and would never be said out loud by anybody.
 
-"There's one more thing," said Elena, at the door. "Four words and a number. I entered it at twenty past nine this morning in a car park, before I drove down here, and you'll never read it, and it is not for you." She had her hand on the door and she turned back, and her face was the face from the bulletin, the one four hundred thousand people had heard being calm at four in the morning, and she said, in a different voice, in a voice Mara had not heard her use in the whole hour: "The respondent is my father. It's in the field. Declared associations. It's been empty on my own record for eleven years and I filled it in a car park at half past nine." She opened the door. "I'm not going to say it again, and I hope you understand that what I did was a clerical act, and that a clerical act is the only kind of promise I make."
+"There's one more thing," said Elena, at the door. "Four words and a number. I entered it at twenty past nine this morning in a car park, before I drove down here, and you'll never read it, and it is not for you." She had her hand on the door and she turned back, and her face was the face from the bulletin, the one four hundred thousand people had heard being calm at four in the morning, and she said, in a different voice, in a voice Mara had not heard her use in the whole hour:
+
+"The respondent is my father. It's in the field. Declared associations. It's been empty on my own record for eleven years and I filled it in a car park at half past nine." She opened the door. "I'm not going to say it again, and I hope you understand that what I did was a clerical act, and that a clerical act is the only kind of promise I make."
 
 Then she went out, and the door shut, and through the bubbled glass Mara watched her walk down the quay, past the notice and the yellow line and the office car she had left standing on it, and get in and drive away north, at the speed of a person reading a street.
 
@@ -6625,7 +6685,9 @@ Mara read the two lines four times.
 
 “She wrote the sentence she was asked to write on 23 April, and took nine weeks to enter it in the register. It is a determination, which the office cannot revise without revising itself.” Mara looked up. “That is her: the one thing she could do that nobody could take out.”
 
-El Búho had not moved since Roux put the page down. He was sitting with both hands on the top of the cane and he had not looked at the paper, and after a while he said, to nobody in the room: "Did they punish her."
+El Búho had not moved since Roux put the page down. He was sitting with both hands on the top of the cane and he had not looked at the paper, and after a while he said, to nobody in the room:
+
+"Did they punish her."
 
 "There is no punishment in the summary," said Roux. "There is no suspension, no transfer, no appointment of an acting officer, and I looked for all three. As far as that register is concerned, the officer of record for the class remains the officer of record for the class."
 
@@ -6671,7 +6733,9 @@ The ferry timetable, agricultural imports and payment systems were normal. The w
 
 And on the eighth of June, at twenty past nine in the morning, in a compound four kilometres west of a rented house on the coast, the doors of the north accommodation block opened and closed all day for the movement of four hundred and eleven units, which went out at five fifteen and came back at seven, and were counted, and entered, and reconciled, and the count was persons.
 
-That evening, Mara stood with the radio on, the sea outside and four people who had spent six months committing a crime together. She asked what was left to ask, not about the machine: "So what are we now."
+That evening, Mara stood with the radio on, the sea outside and four people who had spent six months committing a crime together. She asked what was left to ask, not about the machine:
+
+"So what are we now."
 
 Garrity said, "I have a dog and a barn and an aircraft that will not fly, and I am seventy-one, and I would like to go home before the winter, and I would like somebody to say that this was worth it."
 

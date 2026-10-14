@@ -34,9 +34,27 @@ def loc(idx):
     return sec_of.get(idx, "front matter")
 
 # --- apply edits -------------------------------------------------------
+def resolve(hint, needle):
+    """Find the paragraph the edit belongs to. The edit list carries the index from
+    the extraction it was built on; paragraphing can differ by a few indices between
+    equally valid reconstructions of the same PDF, so fall back to a document-wide
+    search, preferring the candidate nearest the hint."""
+    if hint < len(paras) and needle in paras[hint]:
+        return hint, "index"
+    hits = [i for i, t in enumerate(paras) if needle in t]
+    if len(hits) == 1:
+        return hits[0], "unique"
+    if hits:
+        return min(hits, key=lambda i: abs(i - hint)), "nearest"
+    return None, "none"
+
 applied = []
 errors = []
-for eid, cat, idx, old, new, note in EDITS:
+for eid, cat, idx_hint, old, new, note in EDITS:
+    idx, how = resolve(idx_hint, old)
+    if idx is None:
+        errors.append((eid, idx_hint, 0, old[:60]))
+        continue
     t = paras[idx]
     n = t.count(old)
     if n != 1:
@@ -44,6 +62,8 @@ for eid, cat, idx, old, new, note in EDITS:
         continue
     paras[idx] = t.replace(old, new)
     applied.append((eid, cat, idx, old, new, note))
+    if how != "index":
+        print(f"  {eid}: anchored by {how} search -> paragraph {idx}")
 
 if errors:
     print("FAILED EDITS:")
@@ -168,8 +188,12 @@ write_docx(f"{OUT}/D3_REVISED_manuscript.docx", False)
 write_docx(f"{OUT}/D3_REVISED_marked.docx", True)
 
 # 4. change log data for the writer script
+edited_paras = sorted({a[2] for a in applied})
+divider_paras = sorted(set(div_idx))
 payload = {
     "words_before": w_before, "words_after": w_after,
+    "edits_paras": len(edited_paras), "divider_paras": len(divider_paras),
+    "untouched": len(paras) - len(set(edited_paras) | set(divider_paras)),
     "applied": [{"id": a[0], "cat": a[1], "idx": a[2], "loc": loc(a[2]),
                  "old": a[3], "new": a[4], "note": a[5]} for a in applied],
     "dividers": div_count,

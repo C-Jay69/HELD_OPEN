@@ -166,8 +166,8 @@ The PDF's text layer gives one line per block, so paragraphing was rebuilt mecha
 
 Every edit is then applied by **exact-string match against one numbered paragraph**, with the match required to be unique; if a string had moved or read differently the build fails rather than guessing. The result:
 
-- **41 paragraphs carry edits, 81 carry a normalised divider, 3,200 are untouched.** No paragraph was edited that is not listed in §2–§3, and no edit was made in a paragraph that is not listed.
-- Word count: 110,164 → 110,033.
+- **41 paragraphs carry edits, 82 carry a normalised divider, 3229 are untouched.** No paragraph was edited that is not listed in §2–§3, and no edit was made in a paragraph that is not listed.
+- Word count: 110,164 → 110,035 on the extraction used (two equally valid paragraph reconstructions of this PDF differ by ±2 words and thirty paragraph breaks; the edited text is identical in both after whitespace normalisation).
 - Insertions are highlighted and deletions struck through in `D3_REVISED_marked.docx`; the paragraph's surrounding text is untouched in both DOCX files.
 - `D3_REVISED_manuscript.md` is the same text, clean, for reading and for searching.
 
