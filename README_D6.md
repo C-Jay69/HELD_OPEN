@@ -6,8 +6,8 @@ critique, and every change is logged. Nothing was ever written to please a word 
 **THE TEXT IS FROZEN AS OF D13.** 42 sections · 3,153 body paragraphs · 114,341 words of prose
 (114,058 on the counter used in the D7–D12 papers) · 295 pages · no asterisks anywhere. The frozen
 files and their sha256 hashes are in **`FREEZE_D13.md`**; the build tools are in `tools/`, and
-`tools/verify_edition.py D13` re-checks the whole edition in one command. Anything changed from here
-is a new edition with its own changelog.
+`tools/verify_edition.py D13` re-checks the whole edition in one command (`tools/make_letter.py` builds
+the covering letter the same way). Anything changed from here is a new edition with its own changelog.
 
 | File | What it is |
 |---|---|
@@ -16,6 +16,9 @@ is a new edition with its own changelog.
 | **D13_THE_LAST_SMUGGLERS.md** | The frozen text as plain Markdown — readable directly in the panel without downloading anything. |
 | **THE_LAST_SMUGGLERS_D13.docx** | The frozen text for Word: Times New Roman 12, section titles 18 bold italic, 1-inch margins, no asterisks. 42 sections, 3,467 paragraphs. |
 | **CHANGELOG_D13.md** | **The freeze edition.** One word (Interlude IV's entry date), why, and the note that fixes the word-count convention for the series (114,341 prose / 114,058 on the older counter). |
+| **SUBMISSION_PACKAGE_D13.md** | **THE PACKAGE, AND WHAT IS STILL MISSING.** Everything an agent asks for, in the order they ask for it: the at-a-glance sheet, the covering letter, the fifty pages, the full manuscript — and the one item not yet written (the one-page synopsis). |
+| **LETTER_AGENT_D13.docx / .md** | The covering letter, ready to send: one page, Times 12, brackets for your details and your bio. The Markdown twin carries the three-line version for word-limited query forms. |
+| **COLD_READ_50_PAGES_D13.md** | The first fifty pages read cold: what a reader meets, the three promises the opening makes and keeps, the two one-keystroke defects found in it (both ours, both in the sample), and the checks behind them. |
 | **tools/** | **The build tools, now in the repository**: `apply_freeze.py` (D12 → D13, the one word), `make_edition.py` (units → .docx / .md / .pdf), `verify_edition.py` (model, .docx, .md and .pdf must agree, and the formatting rules must hold). |
 | **CHANGELOG_D12.md** | **The fix pass, applied in full.** Every approved row, old → new, in tables, with the two rows that were left and the one row that was extended by a word. |
 | **CHANGELOG_D11.md** | The one-word decision that came before it: the 1996 assessment is Sal's, so El Búho's file in Chs 31 and 33 is a *declaration of 1996*. |
