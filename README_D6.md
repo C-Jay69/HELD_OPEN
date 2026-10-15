@@ -5,7 +5,9 @@ critique, and every change is logged. Nothing in D6 was written to please a word
 
 | File | What it is |
 |---|---|
-| **THE_LAST_SMUGGLERS_D8.docx** | **The current manuscript.** D7 with the whole day/date system aligned to the confirmed calendar (Day 105 = 16 March, so the Second Run is Days 77–82 and the run night is 16 February). Same formatting: Times New Roman 12, section titles 18 bold italic, 1-inch margins, no asterisks. |
+| **THE_LAST_SMUGGLERS_D8.pdf** | **The current manuscript, readable and printable.** 295 pages, Times 12, 1-inch margins, no asterisks. Open this one if the .docx shows up as a binary file in the viewer. |
+| **D8_THE_LAST_SMUGGLERS.md** | The same manuscript as plain Markdown — readable directly in the Diff/Checks panel without downloading anything. |
+| **THE_LAST_SMUGGLERS_D8.docx** | The same manuscript for Word: Times New Roman 12, section titles 18 bold italic, 1-inch margins, no asterisks. D7 with the whole day/date system aligned to the confirmed calendar (Day 105 = 16 March, so the Second Run is Days 77–82 and the run night is 16 February). Same formatting: Times New Roman 12, section titles 18 bold italic, 1-inch margins, no asterisks. |
 | **CHANGELOG_D8.md** | The calendar pass: the corrected timeline, every reference changed, and the two decisions left open. |
 | **D7 (superseded)** | The manuscript before the calendar alignment. |
 | **THE_LAST_SMUGGLERS_D7.docx** | Superseded by D8. | D6 plus the new chapter *Chapter Twenty-Three — The Log Man* (Days 96–99), with every following chapter renumbered. Times New Roman 12, chapter titles 18 bold italic, 1-inch margins, no asterisks anywhere. |
