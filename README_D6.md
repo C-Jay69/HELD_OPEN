@@ -1,11 +1,13 @@
-# D6 — amended manuscript and editorial papers
+# Amended manuscript and editorial papers (D6 / D7)
 
 Everything here is generated from the D5 manuscript (`D5_THE LAST SMUGGLERS.pdf`) plus the
 critique, and every change is logged. Nothing in D6 was written to please a word count.
 
 | File | What it is |
 |---|---|
-| **THE_LAST_SMUGGLERS_D6.docx** | The amended manuscript. 111,278 words of body text, 39 sections. Title page, contents list, chapter headings, day lines, the new Second Run set piece, the six CUSTOS bulletins set as notices, and the Office's letters set as letters. |
+| **THE_LAST_SMUGGLERS_D7.docx** | **The current manuscript.** D6 plus the new chapter *Chapter Twenty-Three — The Log Man* (Days 96–99), with every following chapter renumbered. Times New Roman 12, chapter titles 18 bold italic, 1-inch margins, no asterisks anywhere. |
+| **CHANGELOG_D7.md** | What D7 adds: the new chapter, the renumbering table, the continuity corrections, and the formatting spec. |
+| **THE_LAST_SMUGGLERS_D6.docx** | The amended manuscript before the new chapter was inserted. 111,278 words of body text, 39 sections. Title page, contents list, chapter headings, day lines, the new Second Run set piece, the six CUSTOS bulletins set as notices, and the Office's letters set as letters. |
 | **D6_THE_LAST_SMUGGLERS.md** | The same manuscript in Markdown (the working text). |
 | **SCENE_THE_LOGMAN.docx** | A draft insertion, ~1,750 words: Days 96–99, Mara and El Búho drive north to the launch man from the Second Run. *Not yet in the manuscript* — awaiting a decision on where it goes (proposed: between Ch 22 and Ch 23). |
 | **SCENE_THE_LOGMAN.md** | The same scene in Markdown. |
