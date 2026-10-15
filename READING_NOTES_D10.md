@@ -550,7 +550,7 @@ Two things I looked at and decided **not** to treat as faults, so that they do n
 
 ## 3. The list, in one place — old → new
 
-Everything below is a candidate. Nothing has been applied. The right-hand column says who caused
+Everything below is a candidate. **Nothing has been applied.** Forty-four rows: forty-three changes and one deliberate keep (row 1). The right-hand column says who caused
 it: **base** = in the original manuscript and never touched; **D6/D8/D10** = one of my passes;
 **author** = the two are incompatible and the author has to choose.
 
