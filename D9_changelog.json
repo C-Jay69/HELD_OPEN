@@ -1,0 +1,228 @@
+{
+ "beats": [
+  {
+   "at": "end of Ch 11 The Prophet (unit 12)",
+   "day": "Day 30",
+   "para": 9,
+   "words": 505,
+   "why": "Okafor's first return: the building Elena speaks over, the queue, and the one question about the expedited lane that she does not answer"
+  },
+  {
+   "at": "end of Ch 22 Ransom (unit 24)",
+   "day": "Day 96",
+   "para": 10,
+   "words": 393,
+   "why": "Okafor's second return: he reads the office's own rule about ink, two days after he starts keeping the book, and does not write in it for twenty-six days"
+  }
+ ],
+ "splits": [
+  {
+   "unit": 34,
+   "at_para": 45,
+   "why": "the chapter runs from the house to the quay with no break in it; the seam is the move to the compound, which is where the plan stops being an argument",
+   "first": "Chapter Thirty-One - The Four Sentences",
+   "second": "Chapter Thirty-Two - The Core",
+   "words_first": 2001,
+   "words_second": 1850
+  },
+  {
+   "unit": 36,
+   "at_para": 66,
+   "why": "the recorder is switched off at the end of the interview and everything after it is off the record, which is a different chapter",
+   "first": "Chapter Thirty-Three - Father",
+   "second": "Chapter Thirty-Four - Off the Record",
+   "words_first": 3347,
+   "words_second": 866
+  }
+ ],
+ "edits": [
+  {
+   "at": "24.7",
+   "old": "Mara had it in front of her \u2014 the letter from the office, the one with a typo in it, and she read the middle paragraph out loud for the third time in a week.",
+   "new": "Mara had it in front of her \u2014 the letter that had come from the office on the fourth of March, forwarded by the man who signs for everything \u2014 and she read the middle paragraph out loud for the third time in a week.",
+   "why": "the letter arrives on 4 March, so Ch 22 is its third reading, not its first; and the typo is Garrity's discovery in Ch 25, not something the reader has already been told"
+  },
+  {
+   "at": "28.80",
+   "old": "After the interview at the western facility on the second of March, the Office wrote to them.",
+   "new": "The letter about the interview at the western facility had come on the fourth of March and had been read in the kitchen the evening it arrived, and twice more that week, and it was in the room on the seventh when they worked out what the word maritime was worth.",
+   "why": "the letter cannot arrive twice; Ch 25 is now its fourth reading, and a deliberate one"
+  },
+  {
+   "at": "28.81",
+   "old": "It came to the Antwerp company, forwarded by the man who signs for everything, and Roux opened it in the filing hall at four in the afternoon and read it out to five people, because that was the arrangement the crew had made in February and it turned out to be the last arrangement that mattered.",
+   "new": "On the sixteenth, with the house full of paper and nothing else to do, Roux read it out again in the filing hall, slowly, from the top, to five people who had spent a fortnight not looking at one line in the middle of it and were now going to have to.",
+   "why": "same sheet, second reading, and Roux's reading is now an act rather than an arrival"
+  }
+ ],
+ "titles": [
+  [
+   "Flight Path",
+   "Day 0"
+  ],
+  [
+   "Chapter Two \u2014 Legacy Infrastructure",
+   "Day 11"
+  ],
+  [
+   "Chapter Three \u2014 The Gentleman",
+   "Day 12"
+  ],
+  [
+   "Chapter Four \u2014 The Monsignor",
+   "Day 14"
+  ],
+  [
+   "Chapter Five \u2014 The Owl",
+   "Days 15\u201316"
+  ],
+  [
+   "Chapter Six \u2014 Floating",
+   "Days 17\u201318"
+  ],
+  [
+   "Chapter Seven \u2014 The Cowboy",
+   "Day 19"
+  ],
+  [
+   "Chapter Eight \u2014 The Railroad",
+   "Days 20\u201321"
+  ],
+  [
+   "Chapter Nine \u2014 Roll Call",
+   "Day 23"
+  ],
+  [
+   "CUSTOS Interlude I: Dakar",
+   "Days 18\u201324"
+  ],
+  [
+   "Chapter Ten \u2014 The First Run",
+   "Days 25\u201332"
+  ],
+  [
+   "Chapter Eleven \u2014 The Prophet",
+   "Day 30"
+  ],
+  [
+   "Chapter Twelve \u2014 Blood and Water",
+   "Day 33"
+  ],
+  [
+   "Chapter Thirteen \u2014 The Ledger",
+   "Days 34\u201338"
+  ],
+  [
+   "Chapter Fourteen \u2014 Dead Reckoning",
+   "Days 39\u201344"
+  ],
+  [
+   "Chapter Fifteen \u2014 The Railroad Runs Both Ways",
+   "Days 44\u201347"
+  ],
+  [
+   "Chapter Sixteen \u2014 Daughter",
+   "Days 47\u201352"
+  ],
+  [
+   "Chapter Seventeen \u2014 The Original Sin",
+   "Days 53\u201370"
+  ],
+  [
+   "Chapter Eighteen \u2014 The Second Run",
+   "Days 71\u201382"
+  ],
+  [
+   "Chapter Nineteen \u2014 The Betrayal That Isn't",
+   "Days 83\u201384"
+  ],
+  [
+   "Chapter Twenty \u2014 The Price",
+   "Days 85\u201389"
+  ],
+  [
+   "Chapter Twenty-One \u2014 Martial Law",
+   "Days 89\u201395"
+  ],
+  [
+   "CUSTOS Interlude II: Notices of the Office of Records and Accommodation",
+   "Days 90\u201396"
+  ],
+  [
+   "Chapter Twenty-Two \u2014 Ransom, or Something Like It",
+   "Days 96\u201399"
+  ],
+  [
+   "Chapter Twenty-Three \u2014 The Log Man",
+   "Days 100\u2013104"
+  ],
+  [
+   "CUSTOS Interlude III: Kestrel Field",
+   "Day 104"
+  ],
+  [
+   "Chapter Twenty-Four \u2014 What the Ocean Keeps",
+   "Day 105 \u2014 the sixteenth of March"
+  ],
+  [
+   "Chapter Twenty-Five \u2014 Confession",
+   "Days 105\u2013108"
+  ],
+  [
+   "Chapter Twenty-Six \u2014 The Dublin Rules",
+   "Days 108\u2013110"
+  ],
+  [
+   "Chapter Twenty-Seven \u2014 The Plan",
+   "Days 110\u2013115"
+  ],
+  [
+   "Chapter Twenty-Eight \u2014 The Port",
+   "Days 118\u2013121"
+  ],
+  [
+   "Chapter Twenty-Nine \u2014 Four Doors",
+   "Day 122 \u2014 the second of April"
+  ],
+  [
+   "Chapter Thirty \u2014 Casualties",
+   "Days 122\u2013131"
+  ],
+  [
+   "Chapter Thirty-One \u2014 The Four Sentences",
+   "Days 133\u2013140"
+  ],
+  [
+   "Chapter Thirty-Two \u2014 The Core",
+   "Days 140\u2013141"
+  ],
+  [
+   "Chapter Thirty-Three \u2014 Father",
+   "Day 141 \u2014 the twenty-first of April"
+  ],
+  [
+   "Chapter Thirty-Four \u2014 Off the Record",
+   "Day 141 \u2014 the same morning"
+  ],
+  [
+   "CUSTOS Interlude IV: Held Open",
+   "Day 143"
+  ],
+  [
+   "Chapter Thirty-Five \u2014 Please Clarify Your Objective",
+   "Days 142\u2013150"
+  ],
+  [
+   "Chapter Thirty-Six \u2014 The Unplugging",
+   "Days 150\u2013157"
+  ],
+  [
+   "Chapter Thirty-Seven \u2014 Offline",
+   "Days 158\u2013189"
+  ],
+  [
+   "Coda \u2014 Ghost Routes & a Postcard",
+   ""
+  ]
+ ]
+}
