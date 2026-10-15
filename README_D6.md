@@ -1,23 +1,25 @@
-# Amended manuscript and editorial papers (D12 current)
+# Amended manuscript and editorial papers (D13 — FROZEN)
 
 Everything here is generated from the D5 manuscript (`D5_THE LAST SMUGGLERS.pdf`) plus the
 critique, and every change is logged. Nothing was ever written to please a word count.
-Current edition: **D12** — 42 sections, **114,058 words** of body text, **3,141 paragraphs**.
-D12 applies **every row you approved** from the D10 read: the eleven *eleven*s the D6 ration had
-broken, the one-word corrections (the register, the years, the weeks, the two Antwerps), the door
-told twice, the month-names the D8 calendar left behind, the last four numbers, the *fat man*
-clause, the November trio, the envelope bent to Chapter 34, Ch 16's two clauses — and **22
-paragraph breaks restored**, so every ledger entry, letter and notice the book quotes is set the way
-the original sets it.
+
+**THE TEXT IS FROZEN AS OF D13.** 42 sections · 3,153 body paragraphs · 114,341 words of prose
+(114,058 on the counter used in the D7–D12 papers) · 295 pages · no asterisks anywhere. The frozen
+files and their sha256 hashes are in **`FREEZE_D13.md`**; the build tools are in `tools/`, and
+`tools/verify_edition.py D13` re-checks the whole edition in one command. Anything changed from here
+is a new edition with its own changelog.
 
 | File | What it is |
 |---|---|
-| **THE_LAST_SMUGGLERS_D12.pdf** | **THE CURRENT MANUSCRIPT — readable and printable.** 298 pages, Times 12, 1-inch margins, no asterisks. Open this one if the .docx shows up as a binary file in the viewer. |
-| **D12_THE_LAST_SMUGGLERS.md** | The same manuscript as plain Markdown — readable directly in the panel without downloading anything. |
-| **THE_LAST_SMUGGLERS_D12.docx** | The same manuscript for Word: Times New Roman 12, section titles 18 bold italic, 1-inch margins, no asterisks. 42 sections. |
-| **CHANGELOG_D12.md** | **The fix pass, applied in full.** Every approved row, old → new, in tables, with the two rows that were left and the one row that was extended by a word. Start here. |
+| **FREEZE_D13.md** | **WHAT IS FROZEN, AND THE PROOF.** The frozen files with their sha256 hashes, the counts, how the generators were proved against D12 (zero differences in 3,467 paragraphs), and how to rebuild and re-verify the text. |
+| **THE_LAST_SMUGGLERS_D13.pdf** | **THE FROZEN MANUSCRIPT — readable and printable.** 295 pages, Times 12, 1-inch margins, no asterisks. Open this one if the .docx shows up as a binary file in the viewer. |
+| **D13_THE_LAST_SMUGGLERS.md** | The frozen text as plain Markdown — readable directly in the panel without downloading anything. |
+| **THE_LAST_SMUGGLERS_D13.docx** | The frozen text for Word: Times New Roman 12, section titles 18 bold italic, 1-inch margins, no asterisks. 42 sections, 3,467 paragraphs. |
+| **CHANGELOG_D13.md** | **The freeze edition.** One word (Interlude IV's entry date), why, and the note that fixes the word-count convention for the series (114,341 prose / 114,058 on the older counter). |
+| **tools/** | **The build tools, now in the repository**: `apply_freeze.py` (D12 → D13, the one word), `make_edition.py` (units → .docx / .md / .pdf), `verify_edition.py` (model, .docx, .md and .pdf must agree, and the formatting rules must hold). |
+| **CHANGELOG_D12.md** | **The fix pass, applied in full.** Every approved row, old → new, in tables, with the two rows that were left and the one row that was extended by a word. |
 | **CHANGELOG_D11.md** | The one-word decision that came before it: the 1996 assessment is Sal's, so El Búho's file in Chs 31 and 33 is a *declaration of 1996*. |
-| **THE_LAST_SMUGGLERS_D11.pdf / .docx · D11_THE_LAST_SMUGGLERS.md** | Superseded by D12 (one word in four sentences). Superseded D10 before that: the Interlude III weekday, the "nine weeks to the day", the Chapter 19 range, two of my own D9 beats, four chapters re-opened on a voice. |
+| **THE_LAST_SMUGGLERS_D12.pdf / .docx · D12_THE_LAST_SMUGGLERS.md** | Superseded by D13 by one word in Interlude IV. D12 is the edition in which the fix list was applied. |
 | **CHANGELOG_D10.md** | What D10 adds: the Interlude III weekday, the "nine weeks to the day", the Chapter 19 range, two corrections to my own D9 beats, and four chapters that now open on a voice instead of on narration. |
 | **THE_LAST_SMUGGLERS_D9.pdf / .docx · D9_THE_LAST_SMUGGLERS.md** | Superseded by D10. D9 added Okafor's two middle beats, the two chapter breaks at the climaxes, and fixed the letter that was being read twice. |
 | **CHANGELOG_D9.md** | What D9 added, with old → new for every change. |
@@ -45,12 +47,12 @@ un-flattened from the Markdown export.
 
 ## Still open (author's decision)
 
-1. **Freeze.** Everything you approved from the D10 read is in the text as of D12. Two rows were left
-   as written, both deliberately: the refusal count (Ch 25 *third*, Ch 36 *fourth*/*fifth*) and Ch 12's
-   *"a policeman would use eleven years later"*. If you want either of them changed, they are one-word
-   edits and they come with the next edition.
+1. **Two rows, left as written by you** — the refusal count (Ch 25 *third*, Ch 36 *fourth*/*fifth*)
+   and Ch 12's *"a policeman would use eleven years later"*. Both are one-word edits; changing either
+   makes a new edition (D14).
 2. **The submission package** — the first fifty pages read cold, and the covering letter. Not started.
-3. **Length.** D12 sits at 114,058 words — inside the story bible's own 110–130k target. The
-   3,000-word "glue trim" was tested for and does not exist (0 duplicate paragraphs in 1,445;
-   70 gloss-appositive candidates in 111,000 words, of which ~55 are voice). If the book must be
-   shorter, the lever is content: scenes, not sentences.
+3. **Length.** The frozen text is 114,341 words of prose — inside the story bible's own 110–130k
+   target (114,058 on the counter used in the D6–D12 papers). The 3,000-word "glue trim" was tested
+   for and does not exist (0 duplicate paragraphs in 1,445; 70 gloss-appositive candidates in 111,000
+   words, of which ~55 are voice). If the book must be shorter, the lever is content: scenes, not
+   sentences.

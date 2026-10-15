@@ -711,7 +711,8 @@ from the sentence that announces it. Verified by comparing all 3,118 paragraphs 
   written, on your answer**, and **row 43 was left as written** (no decision; my recommendation was
   to leave it). One row was extended: row 16's count now also moves in Ch 9, where Mesa says the
   identical sentence. Every change is logged old → new in `CHANGELOG_D12.md`, and row 16's extension
-  is reversible in one word.
+  is reversible in one word. **Row 45 was then applied in the freeze edition, D13** — the only change
+  in it; see `FREEZE_D13.md` and `CHANGELOG_D13.md`. **The text is frozen as D13.**
 - **§1.5** (the envelope) — **done in D12**. **§1.6** (the refusal counts) — **left, deliberately.**
 - **Two small things the read left on the table, both unhurried:** Ch 12's "a policeman would use
   eleven years later" (§1.1i (z)) and the second half of Ch 16's letter, where Sal's account of the
