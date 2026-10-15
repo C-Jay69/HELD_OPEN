@@ -1,0 +1,32 @@
+{
+ "edits": [
+  {
+   "at": "34.15",
+   "old": "the subject of a closed 1996 assessment",
+   "new": "the subject of a closed 1996 declaration",
+   "why": "the author's decision: the assessment of 1996 is Sal's; Rinaldo's 1996 file is the declaration of presumed death, which is what the book already calls it (Chs 30, 31: 'the 1996 certificate declaring me presumed dead')"
+  },
+  {
+   "at": "34.24",
+   "old": "that the applicant is the man in the 1996 assessment",
+   "new": "that the applicant is the man in the 1996 declaration",
+   "why": "the author's decision: the assessment of 1996 is Sal's; Rinaldo's 1996 file is the declaration of presumed death, which is what the book already calls it (Chs 30, 31: 'the 1996 certificate declaring me presumed dead')"
+  },
+  {
+   "at": "34.28",
+   "old": "I am the person named in your assessment of 1996, and I am alive.",
+   "new": "I am the person named in your declaration of 1996, and I am alive.",
+   "why": "the author's decision: the assessment of 1996 is Sal's; Rinaldo's 1996 file is the declaration of presumed death, which is what the book already calls it (Chs 30, 31: 'the 1996 certificate declaring me presumed dead')"
+  },
+  {
+   "at": "36.7",
+   "old": "a designated disposition under the assessment of 1996",
+   "new": "a designated disposition under a declaration of 1996",
+   "why": "the author's decision: the assessment of 1996 is Sal's; Rinaldo's 1996 file is the declaration of presumed death, which is what the book already calls it (Chs 30, 31: 'the 1996 certificate declaring me presumed dead')"
+  }
+ ],
+ "notes": [
+  "Sal's own 'the assessment of 1996' is left exactly as it is in Chs 4, 13, 25, 30 and 31 (his letter, the clipboard woman, the ledger line, the register). The two 1996 documents now have two names.",
+  "Rinaldo's year was not moved: 1996 is his wife's death (Chs 12, 16, 33), the June 1996 ledger entry (Ch 16) and his own 'certificate declaring me presumed dead' (Chs 30, 31)."
+ ]
+}

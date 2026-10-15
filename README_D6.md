@@ -1,19 +1,23 @@
-# Amended manuscript and editorial papers (D10 current)
+# Amended manuscript and editorial papers (D11 current)
 
 Everything here is generated from the D5 manuscript (`D5_THE LAST SMUGGLERS.pdf`) plus the
 critique, and every change is logged. Nothing was ever written to please a word count.
-Current edition: **D10** — 42 sections, 114,053 words of body text.
+Current edition: **D11** — 42 sections, 114,053 words of body text. D11 applies **one decision you
+made**: the 1996 assessment is Sal's, so El Búho's own 1996 file — in Chs 31 and 33 — is now called
+*a declaration of 1996*, four sentences, one word each. Everything else in the manuscript is D10.
 
 | File | What it is |
 |---|---|
-| **THE_LAST_SMUGGLERS_D10.pdf** | **THE CURRENT MANUSCRIPT — readable and printable.** 298 pages, Times 12, 1-inch margins, no asterisks. Open this one if the .docx shows up as a binary file in the viewer. |
-| **D10_THE_LAST_SMUGGLERS.md** | The same manuscript as plain Markdown — readable directly in the panel without downloading anything. |
-| **THE_LAST_SMUGGLERS_D10.docx** | The same manuscript for Word: Times New Roman 12, section titles 18 bold italic, 1-inch margins, no asterisks. 42 sections. |
+| **THE_LAST_SMUGGLERS_D11.pdf** | **THE CURRENT MANUSCRIPT — readable and printable.** 298 pages, Times 12, 1-inch margins, no asterisks. Open this one if the .docx shows up as a binary file in the viewer. |
+| **D11_THE_LAST_SMUGGLERS.md** | The same manuscript as plain Markdown — readable directly in the panel without downloading anything. |
+| **THE_LAST_SMUGGLERS_D11.docx** | The same manuscript for Word: Times New Roman 12, section titles 18 bold italic, 1-inch margins, no asterisks. 42 sections. |
+| **CHANGELOG_D11.md** | **The one decision, applied.** The 1996 assessment is Sal's; El Búho's file stops borrowing the word. Four sentences, one word each (Chs 31, 33), with the four sites, the reasoning, and what was deliberately left alone. |
+| **THE_LAST_SMUGGLERS_D10.pdf / .docx · D10_THE_LAST_SMUGGLERS.md** | Superseded by D11. D10 fixed the Interlude III weekday, the "nine weeks to the day", the Chapter 19 range, two of my own D9 beats, and re-opened four chapters on a voice. |
 | **CHANGELOG_D10.md** | What D10 adds: the Interlude III weekday, the "nine weeks to the day", the Chapter 19 range, two corrections to my own D9 beats, and four chapters that now open on a voice instead of on narration. |
 | **THE_LAST_SMUGGLERS_D9.pdf / .docx · D9_THE_LAST_SMUGGLERS.md** | Superseded by D10. D9 added Okafor's two middle beats, the two chapter breaks at the climaxes, and fixed the letter that was being read twice. |
 | **CHANGELOG_D9.md** | What D9 added, with old → new for every change. |
 | **READING_NOTES_D9.md** | The reading pass: what was checked, what was read, what was found, and what is still open. |
-| **READING_NOTES_D10.md** | **THE LATEST EDITORIAL PAPER.** The end-to-end read of the sections that had never been read (Chapters 4–17, 24, Interlude III, 25–34 and the Coda — 58,442 words), the checks that came back clean, and **44 candidate fixes with old → new, none of them applied**. Read this before the next edition. |
+| **READING_NOTES_D10.md** | **THE LATEST EDITORIAL PAPER.** The end-to-end read of the sections that had never been read (Chapters 4–17, 24, Interlude III, 25–34 and the Coda — 58,442 words), the checks that came back clean, and the fix list with old → new: **45 live rows now — §1.2 answered and applied in D11, rows 28/29 withdrawn (§3F), row 37 split (§3F), and §3G added**, the 41 paragraph breaks the D6 reflow closed. |
 | **THE_LAST_SMUGGLERS_D7.docx** | Superseded by D8/D10. D6 plus the new chapter *Chapter Twenty-Three — The Log Man*, with every following chapter renumbered. Times New Roman 12, chapter titles 18 bold italic, 1-inch margins, no asterisks anywhere. |
 | **CHANGELOG_D7.md** | What D7 adds: the new chapter, the renumbering table, the continuity corrections, and the formatting spec. |
 | **THE_LAST_SMUGGLERS_D6.docx** | The amended manuscript before the new chapter was inserted. 111,278 words of body text, 39 sections. Title page, contents list, chapter headings, day lines, the new Second Run set piece, the six CUSTOS bulletins set as notices, and the Office's letters set as letters. |
@@ -36,7 +40,7 @@ un-flattened from the Markdown export.
 
 ## Still open (author's decision)
 
-1. **The D10 read's fix list — 44 rows, 43 changes, all one-liners, none applied.** They are in
+1. **The D10 read's fix list — 45 live rows, all one-liners or layout, none applied.** They are in
    `READING_NOTES_D10.md` §3 with old → new and a note of whether the fault is the original
    manuscript's or one of my own passes. Three of them matter more than the rest: the door that is
    told twice with different facts (Chs 9, 15, 33), the twelve words where the D6 motif-ration broke

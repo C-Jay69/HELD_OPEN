@@ -323,6 +323,17 @@ machine inherited one filing habit and used it on both men, the text should say 
 passing; if it is not, one of the two years should move. **Decision deferred to you** — I have not
 touched it, and I would not, because it may be deliberate. (See §3.)
 
+**RESOLVED — D11. Your decision: "Id go with 'Sals Assesment'" — the 1996 assessment is Sal's.**
+The consequence is that Rinaldo's own file stops borrowing the word. Four sentences, **one word
+each**, in two chapters — Roux's read-back of the plan (Ch 31), Kavanagh on what the Office can
+receive (Ch 31), sentence one of El Búho's four (Ch 31), and the register's own sentence over him in
+Ch 33 — now say **"declaration of 1996"** instead of "assessment of 1996". The reference
+**four-four-one-one-C** is untouched, and so is every use of the word that belongs to Sal (Chs 2, 4,
+13, 25, 30). Nothing else in the manuscript was touched. The two 1996 documents now have two names
+and two dates, both of which were already in the ledger: **2 April 1996, the assessment** (Sal's) and
+**12 June 1996, the declaration** (Rinaldo's — *"To the Registro Civil, Morelia. Re: the death of
+Mrs. N. Villalobos"*). Full old → new: `CHANGELOG_D11.md`. Shipped as D11 — see `README_D6.md`.
+
 ### 1.3 Things I looked for and did not find (i.e. this all holds)
 
 - **Ages and counts of the six, against the register in Chapter Two:** every one matches except
@@ -550,8 +561,12 @@ Two things I looked at and decided **not** to treat as faults, so that they do n
 
 ## 3. The list, in one place — old → new
 
-Everything below is a candidate. **Nothing has been applied.** Forty-four rows: forty-three changes and one deliberate keep (row 1). The right-hand column says who caused
-it: **base** = in the original manuscript and never touched; **D6/D8/D10** = one of my passes;
+Everything below is a candidate. **Nothing has been applied** except §1.2, which you answered and
+which is now in D11 (four sentences in Chs 31 and 33: *assessment of 1996* → *declaration of 1996* —
+`CHANGELOG_D11.md`). Since the list was written: **rows 28 and 29 are withdrawn** (§3F — the month of
+the run-up), **row 37 has split into 37, 37b and 37c**, and **§3G** has been added (the 41 paragraph
+breaks). That leaves **45 live rows**: 43 one-liners, one layout block, and one deliberate keep. The
+right-hand column says who caused it: **base** = in the original manuscript and never touched; **D6/D8/D10** = one of my passes;
 **author** = the two are incompatible and the author has to choose.
 
 **A. Restorations — the D6 ration broke a fact (12 words)** — see §1.4
@@ -595,8 +610,8 @@ it: **base** = in the original manuscript and never touched; **D6/D8/D10** = one
 | 25 | Ch 33 | found in a field **twelve days** later | **eleven days** | **D6** |
 | 26 | Ch 14 | **It is December.** (El Búho, of the field) | **January** | base vs D8 |
 | 27 | Ch 27 | I did that in **December** (Garrity, of the flight) | **in January** | base vs D8 |
-| 28 | Ch 17 | since **November** (Sal's speed in the yard) | **since December** | base vs D8 |
-| 29 | Ch 33 | in a filing hall in **November** | **in January** | base vs D8 |
+| 28 | Ch 17 | since **November** (Sal's speed in the yard) | ~~since December~~ — **WITHDRAWN, see §3F** | base |
+| 29 | Ch 33 | in a filing hall in **November** | ~~in January~~ — **WITHDRAWN, see §3F** | base |
 | 30 | Ch 16 | the **eighteenth of January** | **the twentieth of January** | base vs D8 |
 
 **D. The four I have added tonight (§1.1g, §1.1h, §1.1i)**
@@ -609,7 +624,9 @@ it: **base** = in the original manuscript and never touched; **D6/D8/D10** = one
 | 34 | Ch 33 | resolved a man on the **twelfth** of this month | **the ninth** of this month | **D6** |
 | 35 | Ch 24 | the number is **ninety** now, because of the four | **eighty-five** | base |
 | 36 | Ch 27 | and it very nearly cost the **fat man's** life | **cut the clause** (or: *the dog*) | base |
-| 37 | Ch 26, Ch 37 | told the crew in **November** / a boast in **November** | **December** | base |
+| 37 | Ch 26 | told the crew in **November** … you held it for **four months** | **in the second week** … **eleven weeks** (Ch 22's own words; 20 December → 8 March) | base (see §3F) |
+| 37b | Ch 35 | signing my own name since **November** | **since the eighth of March** | base (see §3F) |
+| 37c | Ch 37 | I said it as a boast in **November** | **in the second week** | base (see §3F) — minor |
 | 38 | Coda | a January that is now **two years gone** | **a year gone** | base |
 | 39 | Ch 13 | consolidated on the fourteenth of November **of this year** | **last year** | base vs D8 |
 | 40 | Ch 26 | what **your wife** wrote to your daughter in 1996 | **what your daughter wrote in that corridor** | base (see §1.5) |
@@ -617,6 +634,48 @@ it: **base** = in the original manuscript and never touched; **D6/D8/D10** = one
 | 42 | Ch 12 | the bag's envelope, *"in the **same hand** as the one in his pocket"* | **drop the comparison** | base (see §1.5) |
 | 43 | Ch 12 | a policeman would use **eleven years later** | **leave, or `two years earlier`** | base — your call |
 | 44 | Ch 25, Ch 36 | his refusals: *third* (Ch 25), *fourth* / *fifth* (Ch 36) | **fourth**, **fifth**, **sixth** | base — optional (see §1.6) |
+
+**F. The month of the run-up — and the two rows I got wrong (see §3F below)**
+
+**3F. November.** I have checked every *November* in the book against the pre-D7 original, and the
+month is **the manuscript's own**, used consistently for the six weeks before Day 0: the run-up. It is
+in the original in all eight places, and seven of them are memories of something that happened before
+the story opens —
+
+| where | what November is doing there | verdict |
+|---|---|---|
+| Ch 11, Interlude III | Okafor trained himself fast in November, before speed stopped being a kindness | **leave** |
+| Ch 9 / Ch 18 | the collapse was already visible in November | **leave** |
+| Ch 18 | Garrity made the clutch-stick in November | **leave** |
+| Ch 21 | *"the thing they had been fighting since November"* | **leave** |
+| Ch 28 | El Búho: *"In November I said there are only prices."* | **leave** |
+| Ch 33 | *"in a filing hall in November"* (his list, said once before) | **leave** |
+| Coda | Elena drove out in November (a later year) | **leave** |
+
+Three are not the run-up, because the book stages the thing they describe **after** Day 0, and those
+three are rows **37, 37b, 37c** above. Ch 17's *"since November"* and Ch 33's filing hall were my
+errors — **withdrawn** — they mean *before all this*, which is exactly what the book's November is for.
+
+**3G. The paragraph breaks the D6 reflow closed — one row for a layout decision (41 places).**
+The original manuscript puts the line *after a colon* on its own paragraph. Every ledger entry, every
+letter, every notice, the office's one-line answers, the two lines the whole book turns on
+(*"There is nothing you need to do."*) and the struck-out line at Ch 31 (*"I would like to be
+forgiven."*) are set that way. In our model those breaks are closed, so the document line now runs on
+from the sentence that announces it. Verified by comparing all 3,118 paragraphs against the original:
+**41 joins, and every one of them is a colon (or one em-dash) followed by the line it announces.**
+
+- **My recommendation: reopen the break where the following line is a document, a notice, an office
+  answer, or a punch line** — 20 places: Ch 2 (the notice head), Interlude I (the notice head),
+  Flight Path ×2 (the reassignment form), Ch 13 ×3 (three ledger entries, incl. the Trinity one),
+  Ch 16 (12 June 1996), Ch 18 (*"(All under supervision. None under charge.)"*), Ch 24 (REMARKS,
+  four lines of type), Ch 25 ×2 (the deaccession line; Sal's letter), Ch 29 ×2 (the two office notes),
+  Ch 31 (*"I would like to be forgiven."*), Ch 35 ×2 (the verifier's line; *"Please clarify your
+  objective."*), Ch 36 ×2 (the suspension line; *"Please clarify your objective."*), Interlude III
+  (the determination and the rota line), Ch 9 (*"There is nothing you need to do."*), Ch 16
+  (*"It's all right. It's a form. Go back to sleep."*). **And leave the other 21 closed** — those are
+  ordinary dialogue after *"…and said:"*, where the run-on reads as narration and D6 joined them on
+  purpose ("seven split speeches rejoined").
+- Or **reopen all 41** (the original's layout, without exception), or **leave all 41** as they are.
 
 **E. Two I do not know how to fix, and would rather you decided**
 
@@ -627,7 +686,20 @@ it: **base** = in the original manuscript and never touched; **D6/D8/D10** = one
    (*"Until 1996." / "Until 1996."*). One clause is carrying two facts. My reading is that the
    letter he wrote *twice more* is the one in the box she paid for — but you wrote it, and the fix
    changes a character's only account of why he did it.
-2. **§1.2, the year 1996 doing two jobs** — Sal's assessment and El Búho's designated disposition.
-   Still open, deliberately.
+2. **§1.2, the year 1996 doing two jobs** — **RESOLVED in D11**: the assessment is Sal's, and
+   El Búho's four sentences in Chs 31 and 33 now say *declaration*. (Superseded text kept in §1.2
+   for the record; the applied change is in `CHANGELOG_D11.md`.)
+
+---
+
+## 4. Status of this file
+
+- **§1.2** — **answered** (1996 assessment = Sal's) and **applied** in D11; see §1.2 and
+  `CHANGELOG_D11.md`.
+- **§3, the master list** — **45 live rows still unapplied**, awaiting your decisions; row 1 is a
+  deliberate keep, rows 28/29 are withdrawn, §3G is the layout block.
+- **§1.5** (the envelope, three chapters), **§1.6** (the four refusal counts — optional), and
+  **§3E1** (Ch 16, Sal's letter to Nuria) — still your call.
+- Nothing else in this file has been applied. No D10-pass correction was made in D11.
 
 
