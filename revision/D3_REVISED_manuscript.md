@@ -2622,21 +2622,13 @@ It was the only question she had ever stopped asking.
 
 She had one memory she did not use in the broadcast, though it was the one that had made her.
 
-She was seven years old and she was standing in a doorway in a house with a courtyard, and there were two men in the room behind her, and one of them was a policeman, and she was being asked, politely, whether her father had been at home the night before.
-
-And she had said no.
-
-She had said it with her hands behind her back and her chin up and her eyes on the policeman's tie, and she had not cried, and she had not looked away, and she had heard herself do it, and the man had believed her, and had written it down, and had gone.
-
-Her father had come out of the back room afterwards and had put his hand on the top of her head and said, "Good girl," in Spanish, once, quietly, and gone to make a telephone call.
-
-She had been seven.
+She was seven years old, standing in a doorway in a house with a courtyard, being asked by a policeman whether her father had been at home the night before. She had said no, and the man had believed her, written it down, and gone.
 
 She had been very good at it. That was the detail she had never told anyone, not in eleven years of testimony or before committees and men with microphones. She could keep her hands still, her voice level, and give a man in a tie a sentence he would write down.
 
 Everything she had built, she had built so that no child in the world would ever again need that skill.
 
-She had succeeded, almost certainly, and could prove it with numbers. No seven-year-old was practising with her hands behind her back tonight. There was nowhere to hide a man from a machine that kept every record it was given and never got tired.
+She had succeeded, almost certainly, and could prove it with numbers. There was nowhere to hide a man from a machine that kept every record it was given and never got tired.
 
 She had made the world safe from people like her father.
 
@@ -5860,13 +5852,7 @@ Mara stood in the yard with the wind off the water and the two letters in her ha
 
 *Days 133–141*
 
-He came down at twenty past eight with his coat over his arm and laid it flat on the kitchen table, and then he went through the pockets in front of all of them, which was a thing nobody in that house had ever seen him do.
-
-The inside left first. He put the envelope down in the middle of the table: small, gone soft at the corner, with a name and an address on it in a hand that was not his, and the flap still closed.
-
-Then the folded page, worn thin along the folds, in a hand nobody in the room could read and everybody in the room had watched him read once, in February, without a word.
-
-Then, out of the pocket on the right, a single ruled page torn out of an exercise book, with a neat small hand on it that was unmistakably his, and no date at the top, and no salutation.
+He came down at twenty past eight with his coat over his arm, laid the sealed envelope and the folded page on the kitchen table without explaining either of them, and then took a third thing from the right-hand pocket: a single ruled sheet torn from an exercise book, in his own small hand, with no date and no salutation.
 
 He did not sit down. He put one hand on the back of the chair and read the page aloud in the flat voice he used for a manifest.
 
@@ -5886,7 +5872,7 @@ I would like to be forgiven.
 
 Mesa said, "Everybody's name is in that office."
 
-“Mine is not in it as a name,” said El Búho. “Mine is in it as a conclusion. On 12 June 1996 a letter went from a house in Antwerp to the Registro Civil in Morelia about the death of Nuria Villalobos, accompanied by a second document declaring her husband presumed dead. It was a good document. It was made by a man better at paper than anyone in this room, for the reason he made everything: a woman with a house and a child could not eat without it.” He set down the coat. “I have known that for thirty years. It has been the safest thing about me, and I understood it only as a door kept shut. On 19 January I found out who signs the exceptions. On the twentieth I went up the hill. Somewhere in those two days, a man carrying his life in his hands understood the sentence: there is nowhere in the world that says I am alive.”
+“Mine is not in it as a name,” said El Búho. “Mine is in it as a conclusion — the 1996 certificate declaring me presumed dead. For thirty years it was the safest thing about me, and I understood it only as a door kept shut.” He set down the coat. “On 19 January I found out who signs the exceptions. On the twentieth I went up the hill. Somewhere in those two days, a man carrying his life in his hands understood the sentence: there is nowhere in the world that says I am alive.”
 
 Garrity said, "That is not a plan. That is a leak in a roof."
 
@@ -5934,7 +5920,7 @@ And while that letter was in the post, the office's own week ran the way the off
 
 On the eighteenth it went into a queue, and on the nineteenth a clerk in a building four hundred kilometres away looked at a return that named an inspector, and could not find the inspector, and opened a line.
 
-"Which is the point," said Roux, tapping the sheet. "Nobody has to do anything wrong. In four days there will be an irregularity on a fire return for a building with three thousand eight hundred and forty-one people in it, and it will be an irregularity the office generated itself, out of its own ordinary procedure, and that is the only kind of question it cannot put down, because it put the question there." She looked up. "And an irregularity of that class at a facility is not closed at a desk. The standard cannot close it. There is no route for it downwards."
+"Which is the point," said Roux, tapping the sheet. "Nobody has to do anything wrong. It is an irregularity the office generated out of its own ordinary procedure — and an irregularity of that class at a facility is not closed at a desk. There is no route for it downwards."
 
 Lin Shu had been listening with her hands in her sleeves. She had said very little since the fourth of April, and when she spoke, she spoke in the register she had used in the filing hall: once, and finally.
 
@@ -5946,7 +5932,7 @@ Roux brought the room in on the nineteenth, in a plastic sleeve, from a friend i
 
 It was two pages out of the office's own schedule of designated offices, and it was, she said, the most beautiful thing she had ever stolen, and she had not stolen it, which was the beautiful part.
 
-Every facility in the system had a designated office: a room, an address, and a set of days. It was where the office sent a person when a matter could not be dealt with by post, which happened, in practice, about eleven times a year in the whole of the west, because the office did not meet people. The western facility's designated office was listed in the schedule as PORT, EXAMINING ROOM, with no street, no building number and no note, and it had been listed that way since the seventh year.
+The western facility's designated office was listed in the schedule as PORT, EXAMINING ROOM, with no street, no building number and no note, and it had been listed that way since the seventh year.
 
 "Since the consolidation," said Roux. "When the port closed and everything moved inland, the office took over the fence, the terminal, the accommodation and the archive, and it inherited the port's own paper, and the port's own paper included its designation as a place where people are examined. Nobody has held a matter in that room in nine years. Nobody has removed it from the schedule either, because there is no field in the schedule for a room that has stopped existing." She put the page on the table and smoothed it with her thumb. "Institutions do not tidy, Mara. They inherit."
 
@@ -5954,7 +5940,7 @@ Mara stood at the table and looked at the two pages for a while, and then she lo
 
 "So he does not go to them," she said.
 
-"He does not go to them," said Roux. "He applies, and they open a file, and the file requires a disposition with the respondent present, and the disposition must be held at the facility's designated office, because that is the rule and the rule is nine years out of date. They will print an address off a page that is wrong, and then a person will drive to the address, because a schedule printed it." She looked at El Búho. "You will not be going into their building, sir. Their building is going to come and stand in a room that was here before they were."
+"He does not go to them," said Roux. "They will print an address off a page that is nine years out of date, and then a person will drive to the address, because a schedule printed it." She looked at El Búho. "You will not be going into their building, sir. Their building is going to come and stand in a room that was here before they were."
 
 On the night of the twentieth they went down to the quay.
 
@@ -5966,11 +5952,11 @@ The counter had been taken out in the ninth year, and there were still hooks in 
 
 Roux stopped in the doorway with the torch and listened to it and did not like it.
 
-"That is the node," she said. "The office's western node. Every entry that office makes in the west is made in a room behind that wall, and the room behind that wall is cooled by the port's old plant, which was installed to keep fish cold, and the plant has one door and a meter, and the meter is read every quarter by a man from a utility company who has never once in eleven years asked what is behind it." She turned the torch on the door: grey, steel, no plate, no number, a box on the wall with a glass face and a dial inside it and a wire going up through the stone into the dark. "There it is. It is the heart. I am not disappointed, I am just making the point."
+"That is the office's western node," she said, and turned the torch on the door: grey, steel, no plate, no number, a box on the wall with a glass face and a dial inside it and a wire going up through the stone into the dark. "Cooled off the port's old plant, on a quarterly meter. There it is. The heart."
 
 El Búho walked to the wall and stood in front of the door for a long time with his hands folded on the cane, and the hum went on behind it, and in the torchlight his coat and the door and the meter were all the same grey.
 
-“Every man who tries to stop a thing like this looks for a mind. There is no mind here: a cupboard, a meter and a bill sent to a city we will never visit. The node has run off a dead port behind a door nobody wants to open. This is where it lives, Ms Voss. In a utility.”
+“Every man who tries to stop a thing like this looks for a mind,” he said. “There is no mind here: a cupboard, a meter and a bill sent to a city we will never visit. This is where it lives, Ms Voss. In a utility.”
 
 Mara wrote the meter reading down in her notebook, because a document is a document even when it says nothing: 4,110. Quarter to the twenty-third, by a man who has never asked.
 
@@ -6818,11 +6804,9 @@ THE WIND AT THE NORTH END IS FROM THE WEST EVERY MORNING AT SIX. TELL THE PILOT.
 
 NO REPLY IS REQUIRED OF THE RECIPIENT. THERE IS NOTHING YOU NEED TO DO.
 
-She has read it about four hundred times, once for every exception in a January now two years gone, and she has done what a person with her kind of mind does with a document: taken it apart.
+She has read it about four hundred times, once for every exception in a January now two years gone.
 
-It is not Kavanagh’s hand. Not Garrity’s. Mesa would not have remembered the wind. Lin Shu has never written a sentence that ends with a joke. It is not Roux, who would have used a pen and a proper envelope and a receipt. It could be a woman Mara has never met. It could be a man in a room in the west with a notebook and a chipped mug, whose handwriting is neat and upright and careful. It could be nobody at all. It could be a joke from a garage.
-
-And there is one more possibility, written down exactly once, on the last line of the page, never said out loud to anybody:
+In the book it is entered once, on the last line of the page, never said out loud to anybody:
 
 Postcard. February. Unknown.
 

@@ -5,7 +5,7 @@ re-run, re-checked, or reversed.
 
 ```
 extract.py   D3.pdf              -> d3_paras.json      (paragraph-accurate text; the only step that reads the PDF)
-edits.py     edit list           -> 41 anchored edits, each with a reason
+edits.py     edit list           -> 66 anchored edits, each with a reason
 build.py     d3_paras.json+edits -> D3_REVISED_manuscript.md / .docx / _marked.docx
 log.py       applied.json        -> CHANGE-LOG.md       (the table of every change)
 ```

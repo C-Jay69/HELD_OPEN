@@ -153,7 +153,7 @@ def write_docx(path, marked):
     d.add_page_break()
     for i in range(body_start, len(paras)):
         t = paras[i].strip()
-        if not t:
+        if not t and not (marked and i in EDIT_BY_IDX):
             continue
         if HEAD.match(t):
             d.add_heading(t, level=1)
@@ -186,6 +186,8 @@ def write_docx(path, marked):
             post = op[ip + len(old):]
             if pre:
                 p.add_run(pre)
+            if before:
+                p.add_run(before)
             if removed:
                 r = p.add_run(removed)
                 r.font.strike = True
@@ -193,8 +195,6 @@ def write_docx(path, marked):
             if inserted:
                 r = p.add_run(inserted)
                 r.font.highlight_color = WD_COLOR_INDEX.YELLOW
-            if before:
-                p.add_run(before)
             if after:
                 p.add_run(after)
             if post:

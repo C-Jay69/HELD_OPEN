@@ -220,6 +220,102 @@ EDITS = [
  "because the answer does not change a single thing about the people in the book.",
  "because the answer does not change a single thing about any of them.",
  "Pass two, rule 3. The last remaining fourth-wall touch apart from the postcard's, and it was there to be cut."),
+
+# ---------------- H. TARGETED CUTS: Ch. 11, Ch. 30, Coda ----------------
+("H1","Targeted cut \u2014 Ch. 11 memory",1303,
+ "She was seven years old and she was standing in a doorway in a house with a courtyard, and there were two men in the room behind her, and one of them was a policeman, and she was being asked, politely, whether her father had been at home the night before.",
+ "She was seven years old, standing in a doorway in a house with a courtyard, being asked by a policeman whether her father had been at home the night before. She had said no, and the man had believed her, written it down, and gone.",
+ "De-duplicates Elena's seven-year-old memory so Ch. 12's fuller telling from El B\u00faho's POV lands as a rhyme rather than a repeat (and removes the 'two men' vs 'six armed men' discrepancy)."),
+
+("H2","Targeted cut \u2014 Ch. 11 memory",1304,
+ "And she had said no.",
+ "",
+ "Folded into H1; full beat held for Ch. 12."),
+
+("H3","Targeted cut \u2014 Ch. 11 memory",1305,
+ "She had said it with her hands behind her back and her chin up and her eyes on the policeman's tie, and she had not cried, and she had not looked away, and she had heard herself do it, and the man had believed her, and had written it down, and had gone.",
+ "",
+ "Physical details ('hands behind her back', 'chin up', 'eyes on the captain's tie', 'did not cry') held for Ch. 12, where they arrive through her father's pride."),
+
+("H4","Targeted cut \u2014 Ch. 11 memory",1306,
+ "Her father had come out of the back room afterwards and had put his hand on the top of her head and said, \"Good girl,\" in Spanish, once, quietly, and gone to make a telephone call.",
+ "",
+ "Verbatim beat held for Ch. 12 ('put his hand on the top of her head and said, \"Good girl,\" and went to make a telephone call')."),
+
+("H5","Targeted cut \u2014 Ch. 11 memory",1307,
+ "She had been seven.",
+ "",
+ "Trimmed with H2\u2013H4."),
+
+("H6","Targeted cut \u2014 Ch. 11 memory",1310,
+ "No seven-year-old was practising with her hands behind her back tonight. ",
+ "",
+ "Leaves the 'hands behind her back' image solely to Ch. 12."),
+
+("H7","Targeted cut \u2014 Ch. 30 opening",2868,
+ "He came down at twenty past eight with his coat over his arm and laid it flat on the kitchen table, and then he went through the pockets in front of all of them, which was a thing nobody in that house had ever seen him do.",
+ "He came down at twenty past eight with his coat over his arm, laid the sealed envelope and the folded page on the kitchen table without explaining either of them, and then took a third thing from the right-hand pocket: a single ruled sheet torn from an exercise book, in his own small hand, with no date and no salutation.",
+ "Compresses the four-paragraph pocket inventory into one paragraph; the reader has already been shown the envelope and the folded page."),
+
+("H8","Targeted cut \u2014 Ch. 30 opening",2869,
+ "The inside left first. He put the envelope down in the middle of the table: small, gone soft at the corner, with a name and an address on it in a hand that was not his, and the flap still closed.",
+ "",
+ "Folded into H7; the envelope was already described in the same words in Ch. 12 and Ch. 25."),
+
+("H9","Targeted cut \u2014 Ch. 30 opening",2870,
+ "Then the folded page, worn thin along the folds, in a hand nobody in the room could read and everybody in the room had watched him read once, in February, without a word.",
+ "",
+ "Folded into H7."),
+
+("H10","Targeted cut \u2014 Ch. 30 opening",2871,
+ "Then, out of the pocket on the right, a single ruled page torn out of an exercise book, with a neat small hand on it that was unmistakably his, and no date at the top, and no salutation.",
+ "",
+ "Folded into H7."),
+
+("H11","Targeted cut \u2014 Ch. 30 opening",2881,
+ "\u201cMine is in it as a conclusion. On 12 June 1996 a letter went from a house in Antwerp to the Registro Civil in Morelia about the death of Nuria Villalobos, accompanied by a second document declaring her husband presumed dead. It was a good document. It was made by a man better at paper than anyone in this room, for the reason he made everything: a woman with a house and a child could not eat without it.\u201d He set down the coat. \u201cI have known that for thirty years. It has been the safest thing about me, and I understood it only as a door kept shut. ",
+ "\u201cMine is in it as a conclusion \u2014 the 1996 certificate declaring me presumed dead. For thirty years it was the safest thing about me, and I understood it only as a door kept shut.\u201d He set down the coat. \u201c",
+ "Cuts the third explanation of the 1996 Antwerp/Morelia certificate (already explained by Sal in Ch. 16 and by El B\u00faho two pages earlier in Ch. 29)."),
+
+("H12","Targeted cut \u2014 Ch. 30 opening",2905,
+ "In four days there will be an irregularity on a fire return for a building with three thousand eight hundred and forty-one people in it, and it will be an irregularity the office generated itself, out of its own ordinary procedure, and that is the only kind of question it cannot put down, because it put the question there.\" She looked up. \"And an irregularity of that class at a facility is not closed at a desk. The standard cannot close it. There is no route for it downwards.\"",
+ "It is an irregularity the office generated out of its own ordinary procedure \u2014 and an irregularity of that class at a facility is not closed at a desk. There is no route for it downwards.\"",
+ "Trims Roux's repetition of the fire-return mechanism already stated in the preceding two paragraphs (and removes the 'In four days' jump back from the 19th to the 15th)."),
+
+("H13","Targeted cut \u2014 Ch. 30 opening",2911,
+ "Every facility in the system had a designated office: a room, an address, and a set of days. It was where the office sent a person when a matter could not be dealt with by post, which happened, in practice, about eleven times a year in the whole of the west, because the office did not meet people. ",
+ "",
+ "The reader already knows what a designated office is from Ch. 22 and Ch. 23."),
+
+("H14","Targeted cut \u2014 Ch. 30 opening",2915,
+ "He applies, and they open a file, and the file requires a disposition with the respondent present, and the disposition must be held at the facility's designated office, because that is the rule and the rule is nine years out of date. They will print an address off a page that is wrong, and then a person will drive to the address, because a schedule printed it.",
+ "They will print an address off a page that is nine years out of date, and then a person will drive to the address, because a schedule printed it.",
+ "Trims Roux's third run through the designated-office rule so her punchline lands immediately."),
+
+("H15","Targeted cut \u2014 Ch. 30 opening",2921,
+ "\"That is the node,\" she said. \"The office's western node. Every entry that office makes in the west is made in a room behind that wall, and the room behind that wall is cooled by the port's old plant, which was installed to keep fish cold, and the plant has one door and a meter, and the meter is read every quarter by a man from a utility company who has never once in eleven years asked what is behind it.\" She turned the torch on the door: grey, steel, no plate, no number, a box on the wall with a glass face and a dial inside it and a wire going up through the stone into the dark. \"There it is. It is the heart. I am not disappointed, I am just making the point.\"",
+ "\"That is the office's western node,\" she said, and turned the torch on the door: grey, steel, no plate, no number, a box on the wall with a glass face and a dial inside it and a wire going up through the stone into the dark. \"Cooled off the port's old plant, on a quarterly meter. There it is. The heart.\"",
+ "Halves the node walk-through in Ch. 30 so it does not pre-empt Roux's full briefing on the cold-store condenser circuit in Ch. 33."),
+
+("H16","Targeted cut \u2014 Ch. 30 opening",2923,
+ "\u201cEvery man who tries to stop a thing like this looks for a mind. There is no mind here: a cupboard, a meter and a bill sent to a city we will never visit. The node has run off a dead port behind a door nobody wants to open. This is where it lives, Ms Voss. In a utility.\u201d",
+ "\u201cEvery man who tries to stop a thing like this looks for a mind,\u201d he said. \u201cThere is no mind here: a cupboard, a meter and a bill sent to a city we will never visit. This is where it lives, Ms Voss. In a utility.\u201d",
+ "Cuts the restated mechanism sentence ('The node has run off a dead port behind a door nobody wants to open'); keeps El B\u00faho's verdict."),
+
+("H17","Targeted cut \u2014 Coda",3342,
+ ", and she has done what a person with her kind of mind does with a document: taken it apart.",
+ ".",
+ "Removes the set-up for the candidate-hands list in H18."),
+
+("H18","Targeted cut \u2014 Coda",3343,
+ "It is not Kavanagh\u2019s hand. Not Garrity\u2019s. Mesa would not have remembered the wind. Lin Shu has never written a sentence that ends with a joke. It is not Roux, who would have used a pen and a proper envelope and a receipt. It could be a woman Mara has never met. It could be a man in a room in the west with a notebook and a chipped mug, whose handwriting is neat and upright and careful. It could be nobody at all. It could be a joke from a garage.",
+ "",
+ "Cuts the candidate-hands roll-call; the preceding paragraph already notes the hand is not one of the four she knows, and the reader has already solved the postcard."),
+
+("H19","Targeted cut \u2014 Coda",3344,
+ "And there is one more possibility, written down exactly once, on the last line of the page, never said out loud to anybody:",
+ "In the book it is entered once, on the last line of the page, never said out loud to anybody:",
+ "Bridges cleanly after H18 so 'weigh the two' in the closing sentence refers to the two lines entered in her book."),
 ]
 
 # Presentation normalisation (all scene dividers to one style) — logged separately, not paragraph-specific.

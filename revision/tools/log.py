@@ -10,7 +10,8 @@ from edits import EDITS, DIVIDER_FROM, DIVIDER_TO
 ap = json.load(open(os.path.join(HERE, "applied.json")))
 PASS1 = {"A", "B", "C", "D", "E", "F"}
 ap["pass1"] = len([a for a in ap["applied"] if a["id"][0] in PASS1])
-ap["pass2"] = len(ap["applied"]) - ap["pass1"]
+ap["pass2"] = len([a for a in ap["applied"] if a["id"][0] == "G"])
+ap["pass3"] = len([a for a in ap["applied"] if a["id"][0] == "H"])
 A = {a["id"]: a for a in ap["applied"]}
 
 CAT_ORDER = [
@@ -44,16 +45,15 @@ doc.append("**Source:** `editorial/source/D3_THE_LAST_SMUGGLERS.pdf` (D3, 110,16
            "**Compiled:** 14 October 2026.\n")
 doc.append("---\n")
 doc.append("## 1. What this pass is, and what it is not\n")
-doc.append(f"""This is the **continuity pass and the line pass**, applied in one sweep, exactly as the assessment's §8 sequence recommended — with one difference: the structural cut (`revision-plan.md`, Tier 1 ≈4,350–5,000 words) has **not** been done, because you asked for the fixes and the lines. So the file you have is D3 made *consistent* and D3 made *quieter*, at the same length: **{abs(ap['prose_delta']):,} words of prose removed**, in **{len(EDITS)} edits** across the book's 34 chapters, four CUSTOS interstitials and the coda — {ap['pass1']} in the first pass (the fixes and the six line rules) and {ap['pass2']} in the second (a full read-through of the result, which found six more).
+doc.append(f"""This is the **continuity pass, the line pass, and the three targeted cuts**, applied in one reproducible chain: **{abs(ap['prose_delta']):,} words of prose removed**, in **{len(EDITS)} edits** across the book's 34 chapters, four CUSTOS interstitials and the coda — {ap['pass1']} in the first pass (the fixes and the six line rules), {ap['pass2']} in the second (a full read-through of the result), and {ap['pass3']} in the third (the three targeted cuts in Ch. 11, Ch. 30, and the Coda, removing 633 words of repeated or ceremonial material while leaving the load-bearing recruitment and climax chapters intact).
 
-That is deliberately a small number of words. Every one of the six line rules is applied where the text supports it, and where it doesn't I have said so rather than manufactured a cut — §4 below is the pushback section, and it is longer than usual because three of the six rules turned out to be either misdiagnosed or already satisfied.
+Every one of the six line rules is applied where the text supports it, and where it doesn't I have said so rather than manufactured a cut — §4 below is the pushback section, and it is longer than usual because three of the six rules turned out to be either misdiagnosed or already satisfied.
 
-**Scope boundary (unchanged from the assessment):**
-- The cut pass (~4–5k, `revision-plan.md`) is still to do. Do it after you have read this, not before.
-- The two additions the critique asked for — the Garrity scene (§4.4) and one beat for Ada (§4.3) — are still to do, and are still to be paid for out of the cut pass.
-- Nothing was added anywhere in this file.
+**Scope boundary:**
+- Instead of a broad 3,000–5,000-word structural cut that would damage the early recruitment chapters, only the three high-value cuts (Elena's duplicated seven-year-old memory in Ch. 11, the pocket/mechanism recital in the opening of Ch. 30, and the four-candidate-hands list in the Coda) have been applied.
+- The optional additions (the Ada beat in §3.1 of `SUBMISSION-READINESS.md`, and the Garrity scene in §3.2) are still open for your decision.
 
-**Scope of the file:** the revision contains all 39 sections in D3's order — 34 chapters, the four CUSTOS interstitials (Dakar, Notices, Kestrel Field, Interlude IV) and the coda. Word counts here are on the extraction used for this pass, which counts the contents list; the assessment's 109,782 was the same PDF on a slightly different tokenisation, so read the **delta** (−131) as the meaningful figure rather than the absolute one. Every edit below is anchored to an exact paragraph and verified by exact-string match, so nothing but the listed edits differs — see §5.
+**Scope of the file:** the revision contains all 39 sections in D3's order — 34 chapters, the four CUSTOS interstitials (Dakar, Notices, Kestrel Field, Interlude IV) and the coda. Every edit below is anchored to an exact paragraph and verified by exact-string match, so nothing but the listed edits differs — see §5.
 """)
 doc.append("---\n")
 doc.append("## 2. The continuity fixes\n")
@@ -127,6 +127,9 @@ doc.append("""
 Note **D8** is the assessment's own worked example (§6.2) applied as written — 80 words to 45, same meaning, no narrator leaning on the scale — so you can audit the rule against the case you were shown.\n
 ### Rules 1, 4 and 5 — mechanisms, numbers, similes\n""")
 doc.append(table(rows(["Line rule 1 — mechanism", "Line rule 4 — numbers", "Line rule 5 — similes"])))
+doc.append("""\n### The three targeted cuts — Ch. 11, Ch. 30, Coda\n
+Instead of a broad 3,000-word cut across the early recruitment chapters, these nineteen edits trim the three places where the manuscript duplicated a memory, re-inventoried objects the reader had already seen, or over-explained the postcard's sender (~633 words removed):\n""")
+doc.append(table(rows(["Targeted cut — Ch. 11 memory", "Targeted cut — Ch. 30 opening", "Targeted cut — Coda"])))
 doc.append("---\n")
 doc.append("## 4. Where I disagree with the audit\n")
 doc.append("""1. **FLAG 2 — the eighth of March could not be kept.** Full reasoning in §2. This is the only place where the fixes depart from the audit, and it is a departure in the direction of *more* change, not less.
@@ -145,7 +148,7 @@ doc.append(f"""The PDF's text layer gives one line per block, so paragraphing wa
 Every edit is then applied by **exact-string match against one numbered paragraph**, with the match required to be unique; if a string had moved or read differently the build fails rather than guessing. The result:
 
 - **{ap["edits_paras"]} paragraphs carry edits, {ap["divider_paras"]} carry a normalised divider, {ap["untouched"]} are untouched.** No paragraph was edited that is not listed in §2–§3, and no edit was made in a paragraph that is not listed.
-- **Word count, honestly stated.** The {len(EDITS)} edits remove **{abs(ap['prose_delta']):,} words** of prose. Counting the novel from Chapter One to the last line: **{ap['body_before']:,} → {ap['body_after']:,}**. As a word processor reports the DOCX it is **{ap['docx_words']:,}**, because the front matter (title page, epigraph, contents) and the 82 scene dividers are counted as well — each divider is three spaced bullet glyphs, which Word counts as three words. The number to quote in a query is **110,000**.
+- **Word count, honestly stated.** The {len(EDITS)} edits remove **{abs(ap['prose_delta']):,} words** of prose. Counting the novel from Chapter One to the last line: **{ap['body_before']:,} → {ap['body_after']:,}**. As a word processor reports the DOCX it is **{ap['docx_words']:,}**, because the front matter (title page, epigraph, contents) and the 82 scene dividers are counted as well — each divider is three spaced bullet glyphs, which Word counts as three words. The number to quote in a query is **109,000** (or **110,000**).
 - Insertions are highlighted and deletions struck through in `D3_REVISED_marked.docx`; the paragraph's surrounding text is untouched in both DOCX files.
 - `D3_REVISED_manuscript.md` is the same text, clean, for reading and for searching.
 
