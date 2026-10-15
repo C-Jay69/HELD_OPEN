@@ -1,0 +1,2141 @@
+{
+ "fixes": [
+  {
+   "at": "1.0",
+   "why": "no-op anchor",
+   "before": "The thing Daniel Okafor would remember afterward was the pasta.",
+   "after": "The thing Daniel Okafor would remember afterward was the pasta.",
+   "saved": 0
+  },
+  {
+   "at": "32.13",
+   "why": "Ch 29 repeated sentence + full stop before dialogue tag",
+   "before": "\"You put the one document in Europe with every name in this operation on it into the collection batch of a records office.\" said Roux, sitting down slowly, which was the first time Mara had ever seen her do that in a cri",
+   "after": "\"You put the one document in Europe with every name in this operation on it into the collection batch of a records office,\" said Roux, and sat down slowly, which was the first time Mara had ever seen her do that in a cri",
+   "saved": -1
+  },
+  {
+   "at": "5.18",
+   "why": "vary refrain (1 of 2)",
+   "before": "\"I know your name.\" He looked at the hoe and decided against it and sat down on the stool, and it took him a moment longer than it should have, and he did not let her see him notice. \"You came to my house on the fifteent",
+   "after": "\"I know your name.\" He looked at the hoe and decided against it and sat down on the stool, and it took him a moment longer than it should have, and he did not let her see him notice. \"You came to my house on the fifteent",
+   "saved": 0
+  },
+  {
+   "at": "7.1",
+   "why": "vary refrain (2 of 2)",
+   "before": "That was the first thing Mara noticed, and it should not have mattered. Someone had mown eleven hundred feet of grass on the nineteenth day of the end of the world. The fields were going to brush; the fence sagged; but t",
+   "after": "That was the first thing Mara noticed, and it should not have mattered. Someone had mown eleven hundred feet of grass on the nineteenth day. The fields were going to brush; the fence sagged; but the strip was mown, with ",
+   "saved": 6
+  },
+  {
+   "at": "14.97",
+   "why": "trim the interpretive tail",
+   "before": "The light went off. He drank his cold tea, asked kindly for the other sort, and Mara understood on the stairs that he had given her a true sentence and an unanswerable one on the same page. She never knew whether the let",
+   "after": "The light went off. He drank his cold tea, asked kindly for the other sort, and Mara understood on the stairs that he had given her a true sentence and an unanswerable one on the same page.",
+   "saved": 21
+  },
+  {
+   "at": "28.67",
+   "why": "trim generalising tail",
+   "before": "And Mara, going up the stairs an hour later with the ledger under her arm and Sal\u2019s unsent letter under that, thought about the two of them \u2014 an old man with a card on a wall in Ranelagh, and an old man with a sealed env",
+   "after": "And Mara, going up the stairs an hour later with the ledger under her arm and Sal's unsent letter under that, thought about the two of them \u2014 an old man with a card on a wall in Ranelagh, and an old man with a sealed env",
+   "saved": 63
+  },
+  {
+   "at": "19.24",
+   "why": "reset framing paragraph (run moves on to the page)",
+   "before": "Mesa's evening aboard took two hours and eleven minutes, and Mara spent all of it in a car park four hundred metres away with her hands around a cup of cold tea, and heard the whole thing afterwards, in the kitchen, seco",
+   "after": "Mesa's evening aboard took two hours and eleven minutes, and the room heard it afterwards, in the kitchen, in the theatrical register, which meant that Mesa was doing it for the room and also that he was scared.",
+   "saved": 24
+  },
+  {
+   "at": "19.25",
+   "why": "reconcile the kitchen recount with the on-page run",
+   "before": "Mara went aboard because Lin Shu asked one question at the kitchen table and then did not let it go.",
+   "after": "\"There is a mate who is thirty and tired and has been on this run eleven months,\" he said, to the room, to Kavanagh and Roux and Lin Shu, and not once to Mara, who had been standing beside him on a deck at four in the mo",
+   "saved": -120
+  }
+ ],
+ "rations": [
+  {
+   "at": "8.49",
+   "pattern": "eleven hundred",
+   "changes": [
+    [
+     "eleven hundred",
+     "a thousand"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "11.40",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "nine minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "11.58",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "twelve minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "12.14",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "thirteen minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "12.21",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "eight minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "13.13",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "nine minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "13.45",
+   "pattern": "eleven days",
+   "changes": [
+    [
+     "eleven days",
+     "nine days"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "13.75",
+   "pattern": "eleven days",
+   "changes": [
+    [
+     "eleven days",
+     "twelve days"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "14.49",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "twelve minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "16.31",
+   "pattern": "the way a man",
+   "changes": [
+    [
+     "the way a man",
+     "the way somebody"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "16.74",
+   "pattern": "the way a man",
+   "changes": [
+    [
+     "the way a man",
+     "the way one"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "17.18",
+   "pattern": "eleven days",
+   "changes": [
+    [
+     "eleven days",
+     "ten days"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "18.70",
+   "pattern": "the way a man",
+   "changes": [
+    [
+     "the way a man",
+     "the way somebody"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "19.78",
+   "pattern": "eleven months",
+   "changes": [
+    [
+     "eleven months",
+     "nine months"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "20.26",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "thirteen minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "20.54",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "eight minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "20.58",
+   "pattern": "eleven days",
+   "changes": [
+    [
+     "eleven days",
+     "nine days"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "20.71",
+   "pattern": "eleven days",
+   "changes": [
+    [
+     "eleven days",
+     "twelve days"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "21.35",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "nine minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "22.37",
+   "pattern": "for a long moment",
+   "changes": [
+    [
+     "for a long moment",
+     "for a while"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "22.44",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "twelve minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "24.8",
+   "pattern": "Nobody said anything",
+   "changes": [
+    [
+     "Nobody said anything",
+     "Nobody spoke"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "24.30",
+   "pattern": "the way a man",
+   "changes": [
+    [
+     "the way a man",
+     "the way one"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "24.32",
+   "pattern": "eleven seconds",
+   "changes": [
+    [
+     "eleven seconds",
+     "nine seconds"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "24.39",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "thirteen minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "24.66",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "eight minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "24.69",
+   "pattern": "eleven days",
+   "changes": [
+    [
+     "eleven days",
+     "ten days"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "25.7",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "nine minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "25.8",
+   "pattern": "eleven seconds",
+   "changes": [
+    [
+     "eleven seconds",
+     "twelve seconds"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "26.4",
+   "pattern": "eleven seconds",
+   "changes": [
+    [
+     "eleven seconds",
+     "seven seconds"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "26.32",
+   "pattern": "eleven days",
+   "changes": [
+    [
+     "eleven days",
+     "nine days"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "26.52",
+   "pattern": "eleven seconds",
+   "changes": [
+    [
+     "eleven seconds",
+     "nine seconds"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "26.57",
+   "pattern": "for a long moment",
+   "changes": [
+    [
+     "for a long moment",
+     "for some seconds"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "26.65",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "a person who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "27.8",
+   "pattern": "Nobody said anything",
+   "changes": [
+    [
+     "Nobody said anything",
+     "The room was quiet"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "27.23",
+   "pattern": "eleven days",
+   "changes": [
+    [
+     "eleven days",
+     "twelve days"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "27.39",
+   "pattern": "for a long moment",
+   "changes": [
+    [
+     "for a long moment",
+     "for a while"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "27.49",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "twelve minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "27.93",
+   "pattern": "eleven seconds",
+   "changes": [
+    [
+     "eleven seconds",
+     "twelve seconds"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "28.1",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "somebody who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "28.13",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "thirteen minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "28.24",
+   "pattern": "eleven times",
+   "changes": [
+    [
+     "eleven times",
+     "nine times"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "28.37",
+   "pattern": "the only thing",
+   "changes": [
+    [
+     "the only thing",
+     "the one thing"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "28.44",
+   "pattern": "eleven days",
+   "changes": [
+    [
+     "eleven days",
+     "ten days"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "28.44",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "a fellow who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "28.45",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "eight minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "28.50",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "a person who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "28.54",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "somebody who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "28.55",
+   "pattern": "eleven seconds",
+   "changes": [
+    [
+     "eleven seconds",
+     "seven seconds"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "28.56",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "a fellow who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "28.64",
+   "pattern": "the only thing",
+   "changes": [
+    [
+     "the only thing",
+     "the one thing"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "29.8",
+   "pattern": "the only thing",
+   "changes": [
+    [
+     "the only thing",
+     "the one thing"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "29.10",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "nine minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "29.11",
+   "pattern": "the only thing",
+   "changes": [
+    [
+     "the only thing",
+     "the one thing"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "29.11",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "a person who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "29.13",
+   "pattern": "the only thing",
+   "changes": [
+    [
+     "the only thing",
+     "the one thing"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "29.25",
+   "pattern": "eleven months",
+   "changes": [
+    [
+     "eleven months",
+     "twelve months"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "29.29",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "somebody who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "29.37",
+   "pattern": "the only thing",
+   "changes": [
+    [
+     "the only thing",
+     "the one thing"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "29.61",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "a fellow who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "29.62",
+   "pattern": "for a long moment",
+   "changes": [
+    [
+     "for a long moment",
+     "for some seconds"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "30.4",
+   "pattern": "the way a man",
+   "changes": [
+    [
+     "the way a man",
+     "the way somebody"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "30.5",
+   "pattern": "in the exact voice",
+   "changes": [
+    [
+     "in the exact voice",
+     "in the flat voice"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "30.23",
+   "pattern": "eleven seconds",
+   "changes": [
+    [
+     "eleven seconds",
+     "nine seconds"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "30.30",
+   "pattern": "the only thing",
+   "changes": [
+    [
+     "the only thing",
+     "the one thing"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "30.39",
+   "pattern": "the way a man",
+   "changes": [
+    [
+     "the way a man",
+     "the way one"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "30.41",
+   "pattern": "Nobody said anything",
+   "changes": [
+    [
+     "Nobody said anything",
+     "Nobody spoke"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "30.43",
+   "pattern": "the only thing",
+   "changes": [
+    [
+     "the only thing",
+     "the one thing"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "30.71",
+   "pattern": "the only thing",
+   "changes": [
+    [
+     "the only thing",
+     "the one thing"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "31.39",
+   "pattern": "the way a man",
+   "changes": [
+    [
+     "the way a man",
+     "the way somebody"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "31.41",
+   "pattern": "eleven years",
+   "changes": [
+    [
+     "eleven years",
+     "a decade"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "31.45",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "twelve minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "31.77",
+   "pattern": "in the exact voice",
+   "changes": [
+    [
+     "in the exact voice",
+     "in the voice he used for registers"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "32.5",
+   "pattern": "for a long moment",
+   "changes": [
+    [
+     "for a long moment",
+     "for a while"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "32.5",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "a person who"
+    ],
+    [
+     "a man who",
+     "somebody who"
+    ]
+   ],
+   "count": 2
+  },
+  {
+   "at": "32.7",
+   "pattern": "in the exact voice",
+   "changes": [
+    [
+     "in the exact voice",
+     "in the flat voice"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "32.23",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "thirteen minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "32.59",
+   "pattern": "eleven days",
+   "changes": [
+    [
+     "eleven days",
+     "nine days"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "32.67",
+   "pattern": "Nobody said anything",
+   "changes": [
+    [
+     "Nobody said anything",
+     "The room was quiet"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "32.70",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "a fellow who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "32.70",
+   "pattern": "the eleventh",
+   "changes": [
+    [
+     "the eleventh",
+     "the ninth"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "32.74",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "a person who"
+    ],
+    [
+     "a man who",
+     "somebody who"
+    ]
+   ],
+   "count": 2
+  },
+  {
+   "at": "32.80",
+   "pattern": "eleven days",
+   "changes": [
+    [
+     "eleven days",
+     "twelve days"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "32.81",
+   "pattern": "the only thing",
+   "changes": [
+    [
+     "the only thing",
+     "the one thing"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "32.81",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "a fellow who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "32.81",
+   "pattern": "a woman who",
+   "changes": [
+    [
+     "a woman who",
+     "a person who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "32.81",
+   "pattern": "the eleventh",
+   "changes": [
+    [
+     "the eleventh",
+     "the twelfth"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "33.5",
+   "pattern": "eleven days",
+   "changes": [
+    [
+     "eleven days",
+     "ten days"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "33.11",
+   "pattern": "the only thing",
+   "changes": [
+    [
+     "the only thing",
+     "the one thing"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "33.11",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "a person who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "33.18",
+   "pattern": "for a long moment",
+   "changes": [
+    [
+     "for a long moment",
+     "for some seconds"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "33.45",
+   "pattern": "eleven years",
+   "changes": [
+    [
+     "eleven years",
+     "ten years"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "33.45",
+   "pattern": "the only thing",
+   "changes": [
+    [
+     "the only thing",
+     "the one thing"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "33.52",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "somebody who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "33.57",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "a fellow who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "33.62",
+   "pattern": "the way a man",
+   "changes": [
+    [
+     "the way a man",
+     "the way one"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "33.66",
+   "pattern": "a woman who",
+   "changes": [
+    [
+     "a woman who",
+     "somebody who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "33.90",
+   "pattern": "a woman who",
+   "changes": [
+    [
+     "a woman who",
+     "a person who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "34.0",
+   "pattern": "eleven seconds",
+   "changes": [
+    [
+     "eleven seconds",
+     "twelve seconds"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "34.8",
+   "pattern": "a woman who",
+   "changes": [
+    [
+     "a woman who",
+     "somebody who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "34.12",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "a person who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "34.18",
+   "pattern": "eleven days",
+   "changes": [
+    [
+     "eleven days",
+     "nine days"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "34.18",
+   "pattern": "the eleventh",
+   "changes": [
+    [
+     "the eleventh",
+     "the ninth"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "34.20",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "somebody who"
+    ],
+    [
+     "a man who",
+     "a fellow who"
+    ]
+   ],
+   "count": 2
+  },
+  {
+   "at": "34.26",
+   "pattern": "eleven days",
+   "changes": [
+    [
+     "eleven days",
+     "twelve days"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "34.29",
+   "pattern": "a woman who",
+   "changes": [
+    [
+     "a woman who",
+     "a person who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "34.31",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "a person who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "34.39",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "somebody who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "34.39",
+   "pattern": "the eleventh",
+   "changes": [
+    [
+     "the eleventh",
+     "the twelfth"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "34.41",
+   "pattern": "eleven weeks",
+   "changes": [
+    [
+     "eleven weeks",
+     "nine weeks"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "34.48",
+   "pattern": "Nobody said anything",
+   "changes": [
+    [
+     "Nobody said anything",
+     "Nobody spoke"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "34.56",
+   "pattern": "eleven times",
+   "changes": [
+    [
+     "eleven times",
+     "twelve times"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "34.56",
+   "pattern": "the only thing",
+   "changes": [
+    [
+     "the only thing",
+     "the one thing"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "34.56",
+   "pattern": "a woman who",
+   "changes": [
+    [
+     "a woman who",
+     "somebody who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "34.77",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "a fellow who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "34.77",
+   "pattern": "the eleventh",
+   "changes": [
+    [
+     "the eleventh",
+     "the ninth"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "35.15",
+   "pattern": "the eleventh",
+   "changes": [
+    [
+     "the eleventh",
+     "the twelfth"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "36.29",
+   "pattern": "a woman who",
+   "changes": [
+    [
+     "a woman who",
+     "a person who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "36.40",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "a person who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "36.43",
+   "pattern": "eleven days",
+   "changes": [
+    [
+     "eleven days",
+     "ten days"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "36.43",
+   "pattern": "a woman who",
+   "changes": [
+    [
+     "a woman who",
+     "somebody who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "36.51",
+   "pattern": "eleven years",
+   "changes": [
+    [
+     "eleven years",
+     "twelve years"
+    ],
+    [
+     "eleven years",
+     "the whole life of the programme"
+    ]
+   ],
+   "count": 2
+  },
+  {
+   "at": "36.58",
+   "pattern": "eleven times",
+   "changes": [
+    [
+     "eleven times",
+     "a dozen times"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "36.58",
+   "pattern": "the only thing",
+   "changes": [
+    [
+     "the only thing",
+     "the one thing"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "36.70",
+   "pattern": "Nobody said anything",
+   "changes": [
+    [
+     "Nobody said anything",
+     "The room was quiet"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "37.1",
+   "pattern": "a woman who",
+   "changes": [
+    [
+     "a woman who",
+     "a person who"
+    ],
+    [
+     "a woman who",
+     "somebody who"
+    ]
+   ],
+   "count": 2
+  },
+  {
+   "at": "37.2",
+   "pattern": "Nobody said anything",
+   "changes": [
+    [
+     "Nobody said anything",
+     "Nobody spoke"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "37.16",
+   "pattern": "eleven times",
+   "changes": [
+    [
+     "eleven times",
+     "nine times"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "37.28",
+   "pattern": "eleven times",
+   "changes": [
+    [
+     "eleven times",
+     "twelve times"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "37.37",
+   "pattern": "eleven weeks",
+   "changes": [
+    [
+     "eleven weeks",
+     "twelve weeks"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "37.44",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "somebody who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "37.48",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "a fellow who"
+    ],
+    [
+     "a man who",
+     "a person who"
+    ]
+   ],
+   "count": 2
+  },
+  {
+   "at": "37.54",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "somebody who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "37.55",
+   "pattern": "eleven years",
+   "changes": [
+    [
+     "eleven years",
+     "a decade"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "37.61",
+   "pattern": "eleven years",
+   "changes": [
+    [
+     "eleven years",
+     "ten years"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "37.62",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "eight minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "37.65",
+   "pattern": "eleven years",
+   "changes": [
+    [
+     "eleven years",
+     "twelve years"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "38.12",
+   "pattern": "eleven years",
+   "changes": [
+    [
+     "eleven years",
+     "the whole life of the programme"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "38.15",
+   "pattern": "the eleventh",
+   "changes": [
+    [
+     "the eleventh",
+     "the ninth"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "38.17",
+   "pattern": "eleven weeks",
+   "changes": [
+    [
+     "eleven weeks",
+     "ten weeks"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "38.25",
+   "pattern": "the only thing",
+   "changes": [
+    [
+     "the only thing",
+     "the one thing"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "38.28",
+   "pattern": "Nobody said anything",
+   "changes": [
+    [
+     "Nobody said anything",
+     "The room was quiet"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "38.31",
+   "pattern": "the only thing",
+   "changes": [
+    [
+     "the only thing",
+     "the one thing"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "38.33",
+   "pattern": "eleven weeks",
+   "changes": [
+    [
+     "eleven weeks",
+     "nine weeks"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "38.37",
+   "pattern": "the eleventh",
+   "changes": [
+    [
+     "the eleventh",
+     "the twelfth"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "38.47",
+   "pattern": "eleven years",
+   "changes": [
+    [
+     "eleven years",
+     "a decade"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "38.53",
+   "pattern": "the only thing",
+   "changes": [
+    [
+     "the only thing",
+     "the one thing"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "38.55",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "a fellow who"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "38.57",
+   "pattern": "eleven hundred",
+   "changes": [
+    [
+     "eleven hundred",
+     "twelve hundred"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "38.60",
+   "pattern": "eleven hundred",
+   "changes": [
+    [
+     "eleven hundred",
+     "nine hundred"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "38.66",
+   "pattern": "the only thing",
+   "changes": [
+    [
+     "the only thing",
+     "the one thing"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "38.71",
+   "pattern": "eleven years",
+   "changes": [
+    [
+     "eleven years",
+     "ten years"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "39.8",
+   "pattern": "eleven days",
+   "changes": [
+    [
+     "eleven days",
+     "nine days"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "39.17",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "nine minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "39.23",
+   "pattern": "eleven minutes",
+   "changes": [
+    [
+     "eleven minutes",
+     "twelve minutes"
+    ]
+   ],
+   "count": 1
+  },
+  {
+   "at": "39.25",
+   "pattern": "a man who",
+   "changes": [
+    [
+     "a man who",
+     "a person who"
+    ],
+    [
+     "a man who",
+     "somebody who"
+    ],
+    [
+     "a man who",
+     "a fellow who"
+    ]
+   ],
+   "count": 3
+  }
+ ],
+ "cuts": [
+  {
+   "at": "32.12",
+   "why": "duplicate of the corrected line immediately below",
+   "words": 19,
+   "text": "Roux sat down slowly, which was the first time Mara had ever seen her do that in a crisis."
+  },
+  {
+   "at": "26.78",
+   "why": "chapter-end recap that restates the chapter",
+   "words": 72,
+   "text": "El B\u00faho was not in the field, and Mesa came back diminished, and the eighty-one went into a register with a position, a date, and a number \u2014 and Mara stood in the yard with the evening coming on and watched an old man sh"
+  },
+  {
+   "at": "11.13",
+   "why": "third 'there is nothing you need to do' in the same movement",
+   "words": 57,
+   "text": "\u201cFreight barges are numbered,\u201d said El B\u00faho. \u201cA huisboot is a residence: mooring licence, postcode, person aboard. No law on this route treats a house as cargo. It moves and remains a house. Nobody wrote the form.\u201d He lo"
+  },
+  {
+   "at": "22.4",
+   "why": "register repetition",
+   "words": 7,
+   "text": "There is nothing you need to do."
+  },
+  {
+   "at": "24.21",
+   "why": "register repetition",
+   "words": 3,
+   "text": "* * *"
+  },
+  {
+   "at": "19.79",
+   "words": 97,
+   "why": "kitchen re-telling of the mate's insurance survey, now shown on the page in the Second Run set piece (also contradicted 19.26: nine months vs eleven)",
+   "text": "\"There is a mate who is thirty and tired and has been on this run nine months,\" he said. \"I gave him an insurance survey. He does not believe in insurance surveys, but he believes in a man in a coat who asks about the mooring lines and finds them adequate. We talked about a woman in Vigo. We talked about the ship's cook. Then I said that I had heard the office was having trouble with the manifest, and he said the office is always having trouble with the manifest, and he went to the lavatory.\""
+  }
+ ],
+ "inserts": [
+  {
+   "at": "19.24",
+   "why": "NEW: the Second Run staged on the page (the critique's 'one set piece')",
+   "paras": 53,
+   "words": 2713
+  },
+  {
+   "at": "11.93",
+   "why": "NEW: CUSTOS bulletin (BULLETIN_1) \u2014 recurring dread surface",
+   "paras": 2,
+   "words": 55
+  },
+  {
+   "at": "15.80",
+   "why": "NEW: CUSTOS bulletin (BULLETIN_2) \u2014 recurring dread surface",
+   "paras": 2,
+   "words": 71
+  },
+  {
+   "at": "19.129",
+   "why": "NEW: CUSTOS bulletin (BULLETIN_3) \u2014 recurring dread surface",
+   "paras": 2,
+   "words": 64
+  },
+  {
+   "at": "24.78",
+   "why": "NEW: CUSTOS bulletin (BULLETIN_4) \u2014 recurring dread surface",
+   "paras": 3,
+   "words": 75
+  },
+  {
+   "at": "31.78",
+   "why": "NEW: CUSTOS bulletin (BULLETIN_5) \u2014 recurring dread surface",
+   "paras": 3,
+   "words": 62
+  },
+  {
+   "at": "36.70",
+   "why": "NEW: CUSTOS bulletin (BULLETIN_6) \u2014 recurring dread surface",
+   "paras": 4,
+   "words": 80
+  }
+ ],
+ "words_before": 111495,
+ "words_after": 111278,
+ "ration_totals": {
+  "eleven minutes": 30,
+  "eleven seconds": 12,
+  "eleven weeks": 9,
+  "eleven times": 9,
+  "eleven hundred": 9,
+  "eleven days": 28,
+  "eleven months": 4,
+  "eleven years": 40,
+  "looking at him for a long moment": 0,
+  "for a long moment": 12,
+  "Nobody said anything": 16,
+  "in the exact voice": 12,
+  "the way a man": 18,
+  "the only thing": 44,
+  "a man who": 78,
+  "a woman who": 26,
+  "the eleventh": 18,
+  "up for eleven": 0
+ },
+ "daylines_rescued": [
+  "26 | Day 105 \u2014 the sixteenth of March",
+  "31 | Day 122 \u2014 the second of April",
+  "34 | Day 141 \u2014 the twenty-first of April"
+ ],
+ "letters_split": [
+  "14.73 \u2192 3 paragraphs",
+  "20.38 \u2192 2 paragraphs",
+  "20.44 \u2192 2 paragraphs",
+  "27.82 \u2192 2 paragraphs",
+  "20 \u2192 valediction and narration separated"
+ ],
+ "dialogue_joins": [
+  {
+   "at": "3.52",
+   "why": "speech split across two paragraphs (unclosed quotation rejoined to its close)",
+   "text": " is every man I ever trained, and you know it, which is why you\u2019re here.\u201d He looked up. \u201cSay the sentence, Miss Voss. It\u2019s cruel to make a man guess.\u201d"
+  },
+  {
+   "at": "4.26",
+   "why": "speech split across two paragraphs (unclosed quotation rejoined to its close)",
+   "text": "ompletely different voice: exact, dry, unhurried, entirely present. \u201cYou\u2019ve come three thousand miles on a fuel boat, Ms. Voss. Ask me your question.\u201d"
+  },
+  {
+   "at": "5.51",
+   "why": "speech split across two paragraphs (unclosed quotation rejoined to its close)",
+   "text": " on, simply to hold \u2014 and took one step toward the boy, and his voice did not change at all. \u201cAnd don\u2019t come back into my courtyard without knocking.\u201d"
+  },
+  {
+   "at": "13.32",
+   "why": "speech split across two paragraphs (unclosed quotation rejoined to its close)",
+   "text": "kept in a pocket so you could tell yourself you meant to.\u201d At the door she stopped. \u201cAsk her yourself. That is the whole of my advice and it is free.\u201d"
+  },
+  {
+   "at": "16.15",
+   "why": "speech split across two paragraphs (unclosed quotation rejoined to its close)",
+   "text": "ng. He watched and did nothing. The statement does not use the word \u2018ship.\u2019 I will not read you the word. You know it, and I will not make this easy.\u201d"
+  },
+  {
+   "at": "20.28",
+   "why": "speech split across two paragraphs (unclosed quotation rejoined to its close)",
+   "text": ". Mesa, you of all people should know how a man looks when he has done a thing. He does not look like that. He looks like a man waiting for the door.\u201d"
+  },
+  {
+   "at": "36.44",
+   "why": "speech split across two paragraphs (unclosed quotation rejoined to its close)",
+   "text": "five months putting weight on that system. If we put one more finger on it, we have used her, and she will be able to feel it, and she will be right.\u201d"
+  }
+ ],
+ "quote_residual": [
+  {
+   "at": "1.49",
+   "open": 1,
+   "close": 0,
+   "head": "\u201cAbout twenty minutes ago we received an amended routing. It came thro"
+  },
+  {
+   "at": "1.50",
+   "open": 2,
+   "close": 1,
+   "head": "\u201cThey weren\u2019t rude. I could hear in the controllers\u2019 voices that they "
+  },
+  {
+   "at": "1.51",
+   "open": 2,
+   "close": 1,
+   "head": "\u201cWe have fuel for Kestrel Field. I want to be clear about that. We hav"
+  },
+  {
+   "at": "5.28",
+   "open": 2,
+   "close": 1,
+   "head": "\u201cListen,\u201d he said. \u201cI am going to tell you three things, and you will "
+  },
+  {
+   "at": "5.29",
+   "open": 1,
+   "close": 0,
+   "head": "\u201cFirst. I am seventy-four. I have sugar in my blood that I put there m"
+  },
+  {
+   "at": "8.58",
+   "open": 2,
+   "close": 1,
+   "head": "\u201cYou want to know what I do,\u201d said Lin Shu, on the way back, in the mi"
+  },
+  {
+   "at": "12.34",
+   "open": 1,
+   "close": 0,
+   "head": "\u201cFirst, what this is. You already know that an artificial intelligence"
+  },
+  {
+   "at": "12.35",
+   "open": 1,
+   "close": 0,
+   "head": "\u201cThe standard being enforced says one thing. No person may cross a bor"
+  },
+  {
+   "at": "12.39",
+   "open": 2,
+   "close": 1,
+   "head": "\u201cIn the last thirty days, the number of people moved across a border i"
+  },
+  {
+   "at": "12.40",
+   "open": 1,
+   "close": 0,
+   "head": "\u201cNow the cost. I am not going to pretend it is small. A woman in Dakar"
+  },
+  {
+   "at": "12.41",
+   "open": 1,
+   "close": 0,
+   "head": "\u201cI sign two hundred and forty exceptions a day. Some days four hundred"
+  },
+  {
+   "at": "12.42",
+   "open": 1,
+   "close": 0,
+   "head": "\u201cHere is what I will not do. I will not tell you this is temporary, be"
+  },
+  {
+   "at": "12.43",
+   "open": 1,
+   "close": 0,
+   "head": "\u201cHere is what I will tell you."
+  },
+  {
+   "at": "12.44",
+   "open": 1,
+   "close": 0,
+   "head": "\u201cFor a hundred years, the world wanted two things that cannot both be "
+  },
+  {
+   "at": "12.45",
+   "open": 1,
+   "close": 0,
+   "head": "\u201cWhat is happening now is that the cost has become distributed instead"
+  },
+  {
+   "at": "34.55",
+   "open": 2,
+   "close": 1,
+   "head": "\u201cTwo things came into my office this month,\u201d said Elena. \u201cI\u2019m going to"
+  },
+  {
+   "at": "34.56",
+   "open": 1,
+   "close": 0,
+   "head": "\u201cThe first is your letter."
+  }
+ ],
+ "quote_closes": [
+  {
+   "at": "12.35",
+   "why": "unclosed quotation (closing mark lost in export)",
+   "tail": " the receiving state. That is the whole of it. You ratified it. Your parents ratified it.\u201d"
+  }
+ ],
+ "unit_balance": {
+  "1": 3,
+  "2": 0,
+  "3": 0,
+  "4": 0,
+  "5": 2,
+  "6": 0,
+  "7": 0,
+  "8": 1,
+  "9": 0,
+  "10": 0,
+  "11": 0,
+  "12": 8,
+  "13": 0,
+  "14": 0,
+  "15": 0,
+  "16": 0,
+  "17": 0,
+  "18": 0,
+  "19": 0,
+  "20": 0,
+  "21": 0,
+  "22": 0,
+  "23": 0,
+  "24": 0,
+  "25": 0,
+  "26": 0,
+  "27": 0,
+  "28": 0,
+  "29": 0,
+  "30": 0,
+  "31": 0,
+  "32": 0,
+  "33": 0,
+  "34": 2,
+  "35": 0,
+  "36": 0,
+  "37": 0,
+  "38": 0,
+  "39": 0
+ },
+ "trims": [
+  {
+   "at": "1.3",
+   "why": "gloss: the sentence has just shown the kind of man he was",
+   "saved": 8,
+   "after": "He had laughed at that. Then he had typed it into the notes on his phone so he wouldn\u2019t forget."
+  },
+  {
+   "at": "16.38",
+   "why": "the scene has demonstrated it; the clause names it for the reader",
+   "saved": 13,
+   "after": "nd. Eleven days later he was found in a field outside Apatzing\u00e1n. I went to the funeral. I stood at the back.\u201d"
+  },
+  {
+   "at": "29.49",
+   "why": "sentence after the beat explaining the beat",
+   "saved": 9,
+   "after": "o a route, because a number produced by the route would have to be made by the Office. Mesa did not fight her."
+  },
+  {
+   "at": "32.45",
+   "why": "fourth of five uses of the same clause; the sentence stands alone",
+   "saved": 3,
+   "after": "The goodbyes took nine minutes and were businesslike."
+  }
+ ]
+}
