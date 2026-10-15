@@ -1,15 +1,18 @@
-# Amended manuscript and editorial papers (D6 / D7)
+# Amended manuscript and editorial papers (D10 current)
 
 Everything here is generated from the D5 manuscript (`D5_THE LAST SMUGGLERS.pdf`) plus the
-critique, and every change is logged. Nothing in D6 was written to please a word count.
+critique, and every change is logged. Nothing was ever written to please a word count.
+Current edition: **D10** — 42 sections, 114,053 words of body text.
 
 | File | What it is |
 |---|---|
-| **THE_LAST_SMUGGLERS_D9.pdf** | **The current manuscript, readable and printable.** 298 pages, Times 12, 1-inch margins, no asterisks. Open this one if the .docx shows up as a binary file in the viewer. |
-| **D9_THE_LAST_SMUGGLERS.md** | The same manuscript as plain Markdown — readable directly in the Diff/Checks panel without downloading anything. |
-| **THE_LAST_SMUGGLERS_D9.docx** | The same manuscript for Word: Times New Roman 12, section titles 18 bold italic, 1-inch margins, no asterisks. D7 with the whole day/date system aligned to the confirmed calendar (Day 105 = 16 March, so the Second Run is Days 77–82 and the run night is 16 February). Same formatting: Times New Roman 12, section titles 18 bold italic, 1-inch margins, no asterisks. |
-| **CHANGELOG_D9.md** | What D9 adds: Okafor's two new beats, the two chapter breaks, and the letter that was being read twice. |
-| **READING_NOTES_D9.md** | The reading pass: what was checked, what was read, what was found (all 42 chapters open on narration), and what is still open. |
+| **THE_LAST_SMUGGLERS_D10.pdf** | **THE CURRENT MANUSCRIPT — readable and printable.** 298 pages, Times 12, 1-inch margins, no asterisks. Open this one if the .docx shows up as a binary file in the viewer. |
+| **D10_THE_LAST_SMUGGLERS.md** | The same manuscript as plain Markdown — readable directly in the panel without downloading anything. |
+| **THE_LAST_SMUGGLERS_D10.docx** | The same manuscript for Word: Times New Roman 12, section titles 18 bold italic, 1-inch margins, no asterisks. 42 sections. |
+| **CHANGELOG_D10.md** | What D10 adds: the Interlude III weekday, the "nine weeks to the day", the Chapter 19 range, two corrections to my own D9 beats, and four chapters that now open on a voice instead of on narration. |
+| **THE_LAST_SMUGGLERS_D9.pdf / .docx · D9_THE_LAST_SMUGGLERS.md** | Superseded by D10. D9 added Okafor's two middle beats, the two chapter breaks at the climaxes, and fixed the letter that was being read twice. |
+| **CHANGELOG_D9.md** | What D9 added, with old → new for every change. |
+| **READING_NOTES_D9.md** | The reading pass: what was checked, what was read, what was found, and what is still open. |
 | **D7 (superseded)** | The manuscript before the calendar alignment. |
 | **THE_LAST_SMUGGLERS_D7.docx** | Superseded by D8. | D6 plus the new chapter *Chapter Twenty-Three — The Log Man* (Days 96–99), with every following chapter renumbered. Times New Roman 12, chapter titles 18 bold italic, 1-inch margins, no asterisks anywhere. |
 | **CHANGELOG_D7.md** | What D7 adds: the new chapter, the renumbering table, the continuity corrections, and the formatting spec. |

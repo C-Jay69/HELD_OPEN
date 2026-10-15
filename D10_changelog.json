@@ -1,0 +1,82 @@
+{
+ "edits": [
+  {
+   "at": "26.8",
+   "old": "The boy came up on Thursday at nine minutes past ten",
+   "new": "The boy came up on Sunday at nine minutes past ten",
+   "why": "Day 104 is a Sunday: 1 December 2025 is a Monday, so Day 104 is 15 March 2026"
+  },
+  {
+   "at": "19.70",
+   "old": "which was nine weeks to the day",
+   "new": "which was ten weeks to the day",
+   "why": "nine weeks from the night of 16/17 February is 21 April, the morning Elena interviews her father; the collision was invisible to a reader and only showed up on a calendar, so the withdrawal moves a week clear of it"
+  },
+  {
+   "at": "Ch 19 day line",
+   "old": "Days 83\u201384",
+   "new": "Days 83\u201385",
+   "why": "'We have seventy-two hours' is exact if the question is put on the Tuesday (Day 85, the day before the rescue week); the range now permits it, and overlaps Ch 20's Day 85 deliberately, because the meeting runs across the chapter break"
+  },
+  {
+   "at": "12.104",
+   "old": "At twenty past nine he took his badge and went out to the corridor by the fire doors for air, which was what everybody did at that hour,",
+   "new": "At twenty past six he took his badge and went out to the corridor by the fire doors, which was what everybody did at the end of the shift,",
+   "why": "his queue closes at six and the rota runs after it; 21:20 was mine, not his"
+  },
+  {
+   "at": "12.108",
+   "old": "He went back to his desk. There were one hundred and six records left. He closed all of them.",
+   "new": "He went back to his desk. The number at the bottom right of the screen said one hundred and six, and he had it to zero before the lights went down to half, and it did not occur to him until he was in the car park that she had not answered the question.",
+   "why": "closes the beat on the question rather than on the count, and does not pre-empt the interlude's later reflection"
+  },
+  {
+   "at": "24.93",
+   "old": "and he did not write anything in the book that day, or for twenty-six days.",
+   "new": "and he did not write in the book again until the Monday, when he wrote three lines in a row and stopped telling himself it was a list.",
+   "why": "the interlude has thirty-one entries in the book nine days later; 'twenty-six days' made him stop writing, which contradicted it"
+  }
+ ],
+ "reorderings": [
+  {
+   "at": "Chapter Twenty - The Price",
+   "moved": [
+    3,
+    2,
+    1
+   ],
+   "why": "the chapter now opens on the question itself: 'Two vehicles, one night, seventy-two hours...'",
+   "now_opens": "\u201cTwo vehicles, one night, seventy-two hours, three people and a priest who will not lie for us. I am going to ask for so"
+  },
+  {
+   "at": "Chapter Twenty-Two - Ransom, or Something Like It",
+   "moved": [
+    2,
+    1
+   ],
+   "why": "opens on Roux's line about a man in a schedule",
+   "now_opens": "\u201cA man in a facility is not in a cell. He is in a schedule. And the schedule has one feature that matters, because we pu"
+  },
+  {
+   "at": "Chapter Thirty - Casualties",
+   "moved": [
+    2,
+    1
+   ],
+   "why": "opens on 'Four minutes each way' - a puzzle in a voice, then the paragraph that explains it, then Sal's answer",
+   "now_opens": "\u201cFour minutes each way,\u201d she said. \u201cEleven minutes unaccounted for, in a village of nine buildings, one of which is clos"
+  },
+  {
+   "at": "Chapter Thirty-Six - The Unplugging",
+   "moved": [
+    2,
+    1
+   ],
+   "why": "opens on Mara's summons speech",
+   "now_opens": "\u201cThere is a man in this house with a summons in his pocket, and the date on it is the sixth of May, and the room on it i"
+  }
+ ],
+ "notes": [
+  "the twelve days added to Chapter 17 in the calendar pass stay where they are (Ch 17 reads Days 53-70) - no change"
+ ]
+}
