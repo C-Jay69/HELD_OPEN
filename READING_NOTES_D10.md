@@ -633,7 +633,16 @@ right-hand column says who caused it: **base** = in the original manuscript and 
 | 41 | Ch 12 | *"A woman in Rotterdam."* | **a sentence Lin Shu can answer** | base (see §1.5) |
 | 42 | Ch 12 | the bag's envelope, *"in the **same hand** as the one in his pocket"* | **drop the comparison** | base (see §1.5) |
 | 43 | Ch 12 | a policeman would use **eleven years later** | **leave, or `two years earlier`** | base — your call |
-| 44 | Ch 25, Ch 36 | his refusals: *third* (Ch 25), *fourth* / *fifth* (Ch 36) | **fourth**, **fifth**, **sixth** | base — optional (see §1.6) |
+| 44 | Ch 25, Ch 36 | his refusals: *third* (Ch 25), *fourth* / *fifth* (Ch 36) | **fourth**, **fifth**, **sixth** | base — **your answer: leave it** |
+| 45 | Interlude IV | the construction *"was entered in **the twelfth year**, in the pilot period"* | **in the first year** | base — new, found while checking D11 |
+
+**Row 45, short version.** Elena says in Ch 33 that she put the sentence into the machine
+*"eleven years ago, in Rotterdam"* — the pilot period — and the interlude itself says the construction
+has been reproduced *"for three thousand nine hundred and forty-three nights"*, which is ten years and
+nine months. Both say the beginning. *The twelfth year* is where the programme is **now** (Ch 17:
+*"and then, in the eleventh year, accommodation"*). So the line as written puts a pilot-period entry in
+the present year. One word: *the twelfth* → **the first**. It is the only fault I have found since the
+list was closed, and it is in an interlude you have already read.
 
 **F. The month of the run-up — and the two rows I got wrong (see §3F below)**
 
@@ -696,10 +705,18 @@ from the sentence that announces it. Verified by comparing all 3,118 paragraphs 
 
 - **§1.2** — **answered** (1996 assessment = Sal's) and **applied** in D11; see §1.2 and
   `CHANGELOG_D11.md`.
-- **§3, the master list** — **45 live rows still unapplied**, awaiting your decisions; row 1 is a
-  deliberate keep, rows 28/29 are withdrawn, §3G is the layout block.
-- **§1.5** (the envelope, three chapters), **§1.6** (the four refusal counts — optional), and
-  **§3E1** (Ch 16, Sal's letter to Nuria) — still your call.
-- Nothing else in this file has been applied. No D10-pass correction was made in D11.
+- **§3, the master list — DONE, applied in full, in D12.** Your answers: all 37 word-level rows
+  (A–D); the 22 document paragraph breaks of §3G (and not the 21 dialogue joins); the envelope bent
+  to Ch 34 (rows 40–42); Ch 16's two clauses fixed (E1). **Row 44 (the refusal count) was left as
+  written, on your answer**, and **row 43 was left as written** (no decision; my recommendation was
+  to leave it). One row was extended: row 16's count now also moves in Ch 9, where Mesa says the
+  identical sentence. Every change is logged old → new in `CHANGELOG_D12.md`, and row 16's extension
+  is reversible in one word.
+- **§1.5** (the envelope) — **done in D12**. **§1.6** (the refusal counts) — **left, deliberately.**
+- **Two small things the read left on the table, both unhurried:** Ch 12's "a policeman would use
+  eleven years later" (§1.1i (z)) and the second half of Ch 16's letter, where Sal's account of the
+  bank's requirement still reads as if the child's father had to be proved *alive* — the fixed clause
+  is the one the certificate answers.
+- Nothing else in this file was applied.
 
 

@@ -1,0 +1,479 @@
+{
+ "edits": [
+  {
+   "at": "14.50",
+   "old": "A doctor looked at you in 1996 for twelve minutes",
+   "new": "A doctor looked at you in 1996 for eleven minutes",
+   "why": "the same doctor, the same form and the same three boxes as Ch 4: the D6 ration broke the pair"
+  },
+  {
+   "at": "28.50",
+   "old": "The doctor who lasted twelve minutes",
+   "new": "The doctor who lasted eleven minutes",
+   "why": "same fact, third telling"
+  },
+  {
+   "at": "13.45",
+   "old": "Nuria died in 1996 of something that took nine days.",
+   "new": "Nuria died in 1996 of something that took eleven days.",
+   "why": "the original said eleven days in seven places; D6 thinned them to nine/ten"
+  },
+  {
+   "at": "17.19",
+   "old": "something that took ten days",
+   "new": "something that took eleven days",
+   "why": "as above: he came on the eleventh day, which needs an eleven-day illness"
+  },
+  {
+   "at": "29.45",
+   "old": "Nuria and the ten days",
+   "new": "Nuria and the eleven days",
+   "why": "as above"
+  },
+  {
+   "at": "33.60",
+   "old": "I had nine days and came on the eleventh",
+   "new": "I had eleven days and came on the eleventh",
+   "why": "as above"
+  },
+  {
+   "at": "34.6",
+   "old": "the ten days as though it were a reason",
+   "new": "the eleven days as though it were a reason",
+   "why": "as above"
+  },
+  {
+   "at": "36.19",
+   "old": "She was ill for nine days and you came on the ninth",
+   "new": "She was ill for eleven days and you came on the eleventh",
+   "why": "as above"
+  },
+  {
+   "at": "37.13",
+   "old": "a fellow who came on the ninth day",
+   "new": "a fellow who came on the eleventh day",
+   "why": "as above"
+  },
+  {
+   "at": "42.18",
+   "old": "in the nine minutes she was under the ground",
+   "new": "in the eleven minutes she was under the ground",
+   "why": "the Coda's pair: the original said eleven twice, four paragraphs apart"
+  },
+  {
+   "at": "42.24",
+   "old": "in those twelve minutes",
+   "new": "in those eleven minutes",
+   "why": "as above"
+  },
+  {
+   "at": "2.67",
+   "old": "CASTELLANO, SALVATORE — 77",
+   "new": "CASTELLANO, SALVATORE — 79",
+   "why": "every other age in the register is exact; he says seventy-nine five times and the Office's own record says it once"
+  },
+  {
+   "at": "9.106",
+   "old": "Nineteen words.",
+   "new": "One word.",
+   "why": "'Yes' is one word"
+  },
+  {
+   "at": "12.36",
+   "old": "It has been the law of the world for a hundred years",
+   "new": "“It has been the law of the world for a hundred years",
+   "why": "the only paragraph of the broadcast without quotation marks"
+  },
+  {
+   "at": "12.36",
+   "old": "which is why the world looked the way it looked.",
+   "new": "which is why the world looked the way it looked.”",
+   "why": "closing the same quotation"
+  },
+  {
+   "at": "6.66",
+   "old": "“Twenty-nine years. Twenty-nine years, and the man sends me a message",
+   "new": "“Thirty-one years. Thirty-one years, and the man sends me a message",
+   "why": "the rupture is March 1994: December 2025 is thirty-one years and nine months"
+  },
+  {
+   "at": "9.99",
+   "old": "“Twenty-nine years,” he said, to the room, to the shelving, to the audience he had always required. “Twenty-nine years, and today a man walks",
+   "new": "“Thirty-one years,” he said, to the room, to the shelving, to the audience he had always required. “Thirty-one years, and today a man walks",
+   "why": "row 16 extended by one place so Mesa's count agrees with itself (flagged)"
+  },
+  {
+   "at": "13.10",
+   "old": "Six weeks earlier she had come with a bus and a story",
+   "new": "Seventeen days earlier she had come with a bus and a story",
+   "why": "she came to his house on Days 15-16; this is Day 33"
+  },
+  {
+   "at": "14.89",
+   "old": "I have been at this sixty years",
+   "new": "I have been at this forty years",
+   "why": "he is sixty-eight: sixty makes him eight"
+  },
+  {
+   "at": "14.98",
+   "old": "you told me in Antwerp",
+   "new": "you told me in New York",
+   "why": "they met on the porch in Ch 4, which is the Port of New York and New Jersey"
+  },
+  {
+   "at": "28.65",
+   "old": "since the porch in Antwerp in December",
+   "new": "since the porch in New York in December",
+   "why": "same fact, Ch 25"
+  },
+  {
+   "at": "19.60",
+   "old": "In about nine weeks there will be a notice",
+   "new": "In about ten weeks there will be a notice",
+   "why": "my own D10 edit: the narration that answers this line now says ten weeks"
+  },
+  {
+   "at": "16.16",
+   "old": "in six weeks, which was to stop performing",
+   "new": "in three weeks, which was to stop performing",
+   "why": "the crew came up the hill on Day 23; this is Day 44"
+  },
+  {
+   "at": "16.22",
+   "old": "had kept her decision about every single thing for six weeks",
+   "new": "had kept her decision about every single thing for three weeks",
+   "why": "as above"
+  },
+  {
+   "at": "16.42",
+   "old": "You have never once, in six weeks, said that you were wrong.",
+   "new": "You have never once, in three weeks, said that you were wrong.",
+   "why": "as above"
+  },
+  {
+   "at": "16.35",
+   "old": "“Morelia. November 1998,” she said.",
+   "new": "“Morelia. March 1994,” she said.",
+   "why": "his wife is alive in that house, and she died in 1996; Ch 9 dates the door 14 March 1994"
+  },
+  {
+   "at": "9.104",
+   "old": "He was in the tunnel at Ojinaga on the fourteenth of March with forty others, and you were three hundred metres away in a house with a radio.",
+   "new": "He was in the tunnel under your own house on the fourteenth of March with forty others, and you were upstairs with your hand on the hatch.",
+   "why": "Ch 15 and Ch 33 put the door at his own house, at the hatch; Ojinaga and the radio were the other version"
+  },
+  {
+   "at": "36.27",
+   "old": "found in a field twelve days later",
+   "new": "found in a field eleven days later",
+   "why": "Ch 15 says eleven days: the D6 ration made it twelve"
+  },
+  {
+   "at": "15.25",
+   "old": "The field is on a hill. It is December.",
+   "new": "The field is on a hill. It is January.",
+   "why": "the chapter is Days 39-44, which is January"
+  },
+  {
+   "at": "30.34",
+   "old": "because I did that in December",
+   "new": "because I did that in January",
+   "why": "the flight and the crash are Ch 14 (January)"
+  },
+  {
+   "at": "30.34",
+   "old": "a leg and it very nearly cost us the fat man’s life.",
+   "new": "a leg.",
+   "why": "there was no third casualty and no 'fat man' in the field; the clause is cut"
+  },
+  {
+   "at": "17.14",
+   "old": "It was the eighteenth of January",
+   "new": "It was the twentieth of January",
+   "why": "the chapter's own two markers are the fiftieth day and fifty days; Day 50 is 20 January"
+  },
+  {
+   "at": "15.70",
+   "old": "would have it on Thursday, which was four days",
+   "new": "would have it on Wednesday, which was four days",
+   "why": "the crash is the night of Day 39; Thursday is five days, and the chapter's bulletin is Day 44, Wednesday"
+  },
+  {
+   "at": "24.64",
+   "old": "Eleven days for the category review",
+   "new": "Five days for the category review",
+   "why": "eight days is what the calendar has: 8 March + 5 + 3 = 16 March, the interview"
+  },
+  {
+   "at": "29.61",
+   "old": "his request of the second of March",
+   "new": "his request of the eighth of March",
+   "why": "the request is the category review, which went on the ninety-seventh day"
+  },
+  {
+   "at": "36.40",
+   "old": "resolved a man on the twelfth of this month",
+   "new": "resolved a man on the ninth of this month",
+   "why": "Ch 30: he asked on the second, was resolved on the ninth, and the letter came on the eleventh"
+  },
+  {
+   "at": "27.48",
+   "old": "the number is ninety now, because of the four",
+   "new": "the number is eighty-five now, because of the four",
+   "why": "eighty-one plus four is eighty-five"
+  },
+  {
+   "at": "29.65",
+   "old": "You told the crew in November that you would not sign your own name",
+   "new": "You told the crew in the second week that you would not sign your own name",
+   "why": "Ch 22 says the second week; Ch 9 stages it on the page, on Day 20"
+  },
+  {
+   "at": "29.65",
+   "old": "and you held it for four months",
+   "new": "and you held it for eleven weeks",
+   "why": "20 December to 8 March is seventy-eight days"
+  },
+  {
+   "at": "39.67",
+   "old": "I have been signing my own name since November",
+   "new": "I have been signing my own name since the eighth of March",
+   "why": "he refused until Ch 22, when he signed as a citizen on the national form"
+  },
+  {
+   "at": "41.36",
+   "old": "I said it as a boast in November, and meant it.",
+   "new": "I said it as a boast in the second week, and meant it.",
+   "why": "the same first-weeks scene as Ch 22's 'in the second week'"
+  },
+  {
+   "at": "42.37",
+   "old": "a January now two years gone",
+   "new": "a January now a year gone",
+   "why": "the exceptions are January 2026 and the postcard is about fourteen months later"
+  },
+  {
+   "at": "14.76",
+   "old": "on the fourteenth of November of this year",
+   "new": "on the fourteenth of November last year",
+   "why": "the letter is opened on Day 38 (7 January 2026); the consolidation is the D8 anchor, in November 2025"
+  },
+  {
+   "at": "29.52",
+   "old": "what your wife wrote to your daughter in 1996",
+   "new": "what your daughter wrote in that corridor",
+   "why": "Ch 34 stages it: Elena read her own handwriting from when she was eleven"
+  },
+  {
+   "at": "13.28",
+   "old": "“A woman in Rotterdam.”",
+   "new": "“A woman who has not spoken to me in twelve years.”",
+   "why": "Ch 34: it is addressed to Elena, and it is his own line that Lin Shu can answer"
+  },
+  {
+   "at": "13.73",
+   "old": "in the same hand as the one in his pocket",
+   "new": "in the same sloped hand a child uses when it is being careful",
+   "why": "the bag cannot hold a letter that was in his pocket from the day he left Ireland"
+  },
+  {
+   "at": "17.47",
+   "old": "no way to prove that the first of those had a father who was legally alive",
+   "new": "no way to prove that the first of those had a father who was legally dead",
+   "why": "a death certificate is what you produce when a father is not legally alive"
+  },
+  {
+   "at": "17.47",
+   "old": "I wrote to her twice more in nine years, and she answered every time.",
+   "new": "I wrote to her twice more in that year, and she answered every time.",
+   "why": "the exchange two lines later is 'Until 1996.' / 'Until 1996.'"
+  }
+ ],
+ "splits": [
+  {
+   "at": "40.64",
+   "markers": [
+    "in the office’s own language, was:"
+   ],
+   "into": 2,
+   "why": "Please clarify your objective."
+  },
+  {
+   "at": "40.47",
+   "markers": [
+    "in the office’s own language:"
+   ],
+   "into": 2,
+   "why": "the suspension line"
+  },
+  {
+   "at": "39.37",
+   "markers": [
+    "had ever read:"
+   ],
+   "into": 2,
+   "why": "Please clarify your objective."
+  },
+  {
+   "at": "39.27",
+   "markers": [
+    "the verifier had written:"
+   ],
+   "into": 2,
+   "why": "the verifier's line"
+  },
+  {
+   "at": "34.7",
+   "markers": [
+    "wanted them to be:"
+   ],
+   "into": 2,
+   "why": "the struck-out line, on its own line"
+  },
+  {
+   "at": "32.44",
+   "markers": [
+    "the office’s own language and the office’s own font:"
+   ],
+   "into": 2,
+   "why": "the office's note"
+  },
+  {
+   "at": "32.43",
+   "markers": [
+    "with a note that said, in full:"
+   ],
+   "into": 2,
+   "why": "the office's note"
+  },
+  {
+   "at": "28.28",
+   "markers": [
+    "It read:",
+    "reference as below."
+   ],
+   "into": 3,
+   "why": "Sal's letter set as a letter: intro, line, line"
+  },
+  {
+   "at": "28.7",
+   "markers": [
+    "and it said, in Sal’s hand:"
+   ],
+   "into": 2,
+   "why": "the deaccession line"
+  },
+  {
+   "at": "27.46",
+   "markers": [
+    "in four lines of type:"
+   ],
+   "into": 2,
+   "why": "REMARKS, four lines of type"
+  },
+  {
+   "at": "26.22",
+   "markers": [
+    "one line that stopped him:"
+   ],
+   "into": 2,
+   "why": "the rota line"
+  },
+  {
+   "at": "26.15",
+   "markers": [
+    "used a contraction:"
+   ],
+   "into": 2,
+   "why": "the office's language"
+  },
+  {
+   "at": "19.81",
+   "markers": [
+    "the only comment he had permitted himself:"
+   ],
+   "into": 2,
+   "why": "the office's parenthesis"
+  },
+  {
+   "at": "17.76",
+   "markers": [
+    "size of one person’s attention:"
+   ],
+   "into": 2,
+   "why": "the construction, on its own line"
+  },
+  {
+   "at": "17.44",
+   "markers": [
+    "Re: the death of Mrs. N. Villalobos. Cost: —"
+   ],
+   "into": 2,
+   "why": "as above"
+  },
+  {
+   "at": "14.94",
+   "markers": [
+    "Re: an error in the records of a candidate. Cost: —"
+   ],
+   "into": 2,
+   "why": "as above"
+  },
+  {
+   "at": "14.29",
+   "markers": [
+    "Re: a child. Cost: —"
+   ],
+   "into": 2,
+   "why": "the ledger entry stands alone"
+  },
+  {
+   "at": "14.12",
+   "markers": [
+    "which was the only joke in it —"
+   ],
+   "into": 2,
+   "why": "the letter's text"
+  },
+  {
+   "at": "10.1",
+   "markers": [
+    "TIER ONE AREAS"
+   ],
+   "into": 2,
+   "why": "the notice head"
+  },
+  {
+   "at": "9.155",
+   "markers": [
+    "and it read:"
+   ],
+   "into": 2,
+   "why": "the line the book is built on, on its own line"
+  },
+  {
+   "at": "2.22",
+   "markers": [
+    "AUTHORIZED AGENTS"
+   ],
+   "into": 2,
+   "why": "the notice head"
+  },
+  {
+   "at": "1.62",
+   "markers": [
+    "white text on a field of calm blue:"
+   ],
+   "into": 2,
+   "why": "the reassignment notice"
+  }
+ ],
+ "notes": [
+  "Row 44 (the refusal count: Ch 25 third, Ch 36 fourth/fifth) was NOT applied: your answer was to leave it.",
+  "Row 43 (Ch 12's 'a policeman would use eleven years later') was NOT applied - no decision, and my recommendation was to leave it, because it is a voice rather than a fact.",
+  "Row 16 was extended by one place (Ch 9's identical 'Twenty-nine years' speech) so Mesa's count agrees with itself; revert is one word.",
+  "Sal's own uses of the word 'assessment' (Chs 2, 4, 13, 25, 30) and the reference four-four-one-one-C are untouched: that was D11.",
+  "November survives in the seven places where it is the run-up (Chs 9, 11, 18, 21, 28, 33, Interlude III, Coda): rows 28 and 29 were withdrawn."
+ ],
+ "not_applied": []
+}
