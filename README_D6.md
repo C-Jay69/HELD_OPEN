@@ -5,7 +5,10 @@ critique, and every change is logged. Nothing in D6 was written to please a word
 
 | File | What it is |
 |---|---|
-| **THE_LAST_SMUGGLERS_D7.docx** | **The current manuscript.** D6 plus the new chapter *Chapter Twenty-Three — The Log Man* (Days 96–99), with every following chapter renumbered. Times New Roman 12, chapter titles 18 bold italic, 1-inch margins, no asterisks anywhere. |
+| **THE_LAST_SMUGGLERS_D8.docx** | **The current manuscript.** D7 with the whole day/date system aligned to the confirmed calendar (Day 105 = 16 March, so the Second Run is Days 77–82 and the run night is 16 February). Same formatting: Times New Roman 12, section titles 18 bold italic, 1-inch margins, no asterisks. |
+| **CHANGELOG_D8.md** | The calendar pass: the corrected timeline, every reference changed, and the two decisions left open. |
+| **D7 (superseded)** | The manuscript before the calendar alignment. |
+| **THE_LAST_SMUGGLERS_D7.docx** | Superseded by D8. | D6 plus the new chapter *Chapter Twenty-Three — The Log Man* (Days 96–99), with every following chapter renumbered. Times New Roman 12, chapter titles 18 bold italic, 1-inch margins, no asterisks anywhere. |
 | **CHANGELOG_D7.md** | What D7 adds: the new chapter, the renumbering table, the continuity corrections, and the formatting spec. |
 | **THE_LAST_SMUGGLERS_D6.docx** | The amended manuscript before the new chapter was inserted. 111,278 words of body text, 39 sections. Title page, contents list, chapter headings, day lines, the new Second Run set piece, the six CUSTOS bulletins set as notices, and the Office's letters set as letters. |
 | **D6_THE_LAST_SMUGGLERS.md** | The same manuscript in Markdown (the working text). |

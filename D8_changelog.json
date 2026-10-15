@@ -1,0 +1,211 @@
+{
+ "headings": [
+  {
+   "unit": 18,
+   "chapter": "The Original Sin",
+   "old": "Days 53\u201358",
+   "new": "Days 53\u201370"
+  },
+  {
+   "unit": 19,
+   "chapter": "The Second Run",
+   "old": "Days 59\u201366",
+   "new": "Days 71\u201382"
+  },
+  {
+   "unit": 20,
+   "chapter": "The Betrayal That Isn't",
+   "old": "Days 67\u201370",
+   "new": "Days 83\u201384"
+  },
+  {
+   "unit": 21,
+   "chapter": "The Price",
+   "old": "Days 71\u201374",
+   "new": "Days 85\u201389"
+  },
+  {
+   "unit": 22,
+   "chapter": "Martial Law",
+   "old": "Days 77\u201385",
+   "new": "Days 89\u201395"
+  },
+  {
+   "unit": 23,
+   "chapter": "CUSTOS Interlude II: Notices of the Office of Records and Accommodation",
+   "old": "Days 78\u201392",
+   "new": "Days 90\u201396"
+  },
+  {
+   "unit": 24,
+   "chapter": "Ransom, or Something Like It",
+   "old": "Days 86\u201393",
+   "new": "Days 96\u201399"
+  },
+  {
+   "unit": 25,
+   "chapter": "The Log Man",
+   "old": "Days 96\u201399",
+   "new": "Days 100\u2013104"
+  },
+  {
+   "unit": 26,
+   "chapter": "CUSTOS Interlude III: Kestrel Field",
+   "old": "Day 89",
+   "new": "Day 104"
+  }
+ ],
+ "edits": [
+  {
+   "at": "19.38",
+   "old": "at eleven at night on the last day of January",
+   "new": "at eleven at night on the sixteenth of February",
+   "why": "the harbour night is the run's night: 16 February (Day 77)"
+  },
+  {
+   "at": "19.79",
+   "old": "the Connacht Tribune of the 22nd of February",
+   "new": "the Connacht Tribune of the twelfth of February",
+   "why": "Mesa wrote the forty-one names on that newspaper during the run on the night of the sixteenth, so the paper cannot be dated after it; the twelfth is the Thursday before, which is the Connacht Tribune's publication day"
+  },
+  {
+   "at": "19.130",
+   "old": "*CUSTOS \u2014 PUBLIC BULLETIN, DAY 68, 06:00*",
+   "new": "*CUSTOS \u2014 PUBLIC BULLETIN, DAY 78, 06:00*",
+   "why": "the bulletin that closes Ch 18 now falls inside the chapter (Days 71\u201382), on the morning after the landing"
+  },
+  {
+   "at": "21.2",
+   "old": "She put the question properly on the seventy-first day",
+   "new": "She put the question properly on the eighty-fifth day",
+   "why": "the question is put two days before the rescue, which is now the Thursday of the last week of February"
+  },
+  {
+   "at": "22.1",
+   "old": "The bulletin changed on the seventy-seventh day",
+   "new": "The bulletin changed on the eighty-ninth day",
+   "why": "the order takes effect on 1 March (Day 90), so the bulletin that announces it goes out the day before"
+  },
+  {
+   "at": "22.12",
+   "old": "On the seventy-ninth day they stopped hiding the number",
+   "new": "On the ninety-first day they stopped hiding the number",
+   "why": ""
+  },
+  {
+   "at": "22.24",
+   "old": "The Galway case came up on the eighty-first day",
+   "new": "The Galway case came up on the ninety-third day",
+   "why": ""
+  },
+  {
+   "at": "22.32",
+   "old": "The register page came back on the eighty-second day",
+   "new": "The register page came back on the ninety-fourth day",
+   "why": ""
+  },
+  {
+   "at": "22.41",
+   "old": "it was the reason the seventy-ninth day was the day the crew stopped arguing",
+   "new": "it was the reason the ninety-first day was the day the crew stopped arguing",
+   "why": "one of two cross-references to this day (the other is in Ch 27)"
+  },
+  {
+   "at": "22.49",
+   "old": "The delegation came on the eighty-fourth day",
+   "new": "The delegation came on the ninety-fifth day",
+   "why": ""
+  },
+  {
+   "at": "22.68",
+   "old": "We have three weeks and one day.",
+   "new": "We have ten days.",
+   "why": "the vault collection is 16 March (Day 105) and this scene is now Day 95 (6 March)"
+  },
+  {
+   "at": "30.7",
+   "old": "since the seventy-ninth day",
+   "new": "since the ninety-first day",
+   "why": "cross-reference to the Martial Law day, carried with it"
+  },
+  {
+   "at": "24.27",
+   "old": "It is February and I am sixty-eight",
+   "new": "It is March and I am sixty-eight",
+   "why": "the Crane doorstep has moved behind the arrest, into the first week of March"
+  },
+  {
+   "at": "24.53",
+   "old": "The application went on the ninety-first day.",
+   "new": "The application went on the ninety-seventh day.",
+   "why": ""
+  },
+  {
+   "at": "25.2",
+   "old": "on the ninety-sixth day he read one",
+   "new": "on the hundredth day he read one",
+   "why": "the Killybegs lamp entry reaches the notices three weeks after the entry itself"
+  },
+  {
+   "at": "25.14",
+   "old": "They went on the ninety-seventh day",
+   "new": "They went on the hundred and first day",
+   "why": ""
+  },
+  {
+   "at": "28.80",
+   "old": "After the interview at the western facility on the eighteenth of February",
+   "new": "After the interview at the western facility on the second of March",
+   "why": "Mesa is not taken until Friday 27 February, so the interview cannot be 18 February"
+  },
+  {
+   "at": "28.83",
+   "old": "a person was interviewed at the western facility on the eighteenth of February",
+   "new": "a person was interviewed at the western facility on the second of March",
+   "why": ""
+  }
+ ],
+ "notes": [],
+ "displays": [
+  "Flight Path",
+  "Chapter Two \u2014 Legacy Infrastructure",
+  "Chapter Three \u2014 The Gentleman",
+  "Chapter Four \u2014 The Monsignor",
+  "Chapter Five \u2014 The Owl",
+  "Chapter Six \u2014 Floating",
+  "Chapter Seven \u2014 The Cowboy",
+  "Chapter Eight \u2014 The Railroad",
+  "Chapter Nine \u2014 Roll Call",
+  "CUSTOS Interlude I: Dakar",
+  "Chapter Ten \u2014 The First Run",
+  "Chapter Eleven \u2014 The Prophet",
+  "Chapter Twelve \u2014 Blood and Water",
+  "Chapter Thirteen \u2014 The Ledger",
+  "Chapter Fourteen \u2014 Dead Reckoning",
+  "Chapter Fifteen \u2014 The Railroad Runs Both Ways",
+  "Chapter Sixteen \u2014 Daughter",
+  "Chapter Seventeen \u2014 The Original Sin",
+  "Chapter Eighteen \u2014 The Second Run",
+  "Chapter Nineteen \u2014 The Betrayal That Isn't",
+  "Chapter Twenty \u2014 The Price",
+  "Chapter Twenty-One \u2014 Martial Law",
+  "CUSTOS Interlude II: Notices of the Office of Records and Accommodation",
+  "Chapter Twenty-Two \u2014 Ransom, or Something Like It",
+  "Chapter Twenty-Three \u2014 The Log Man",
+  "CUSTOS Interlude III: Kestrel Field",
+  "Chapter Twenty-Four \u2014 What the Ocean Keeps",
+  "Chapter Twenty-Five \u2014 Confession",
+  "Chapter Twenty-Six \u2014 The Dublin Rules",
+  "Chapter Twenty-Seven \u2014 The Plan",
+  "Chapter Twenty-Eight \u2014 The Port",
+  "Chapter Twenty-Nine \u2014 Four Doors",
+  "Chapter Thirty \u2014 Casualties",
+  "Chapter Thirty-One \u2014 The Core",
+  "Chapter Thirty-Two \u2014 Father",
+  "CUSTOS Interlude IV: Held Open",
+  "Chapter Thirty-Three \u2014 Please Clarify Your Objective",
+  "Chapter Thirty-Four \u2014 The Unplugging",
+  "Chapter Thirty-Five \u2014 Offline",
+  "Coda \u2014 Ghost Routes & a Postcard"
+ ]
+}
